@@ -6,6 +6,7 @@ Analyzes second-level and third-level domain strings from the Public Suffix List
 import urllib.request
 from collections import defaultdict
 import csv
+import json
 
 def fetch_psl():
     """Fetch the Public Suffix List from the URL using a proper User-Agent header.
@@ -45,12 +46,14 @@ def parse_domains(lines, exclude_tlds={'it', 'jp', 'no'}):
     Parse domain entries and extract SLD/3LD components
     
     Returns:
-        tuple: (component_tlds, component_total_count)
+        tuple: (component_tlds, component_total_count, tld_components)
         - component_tlds: {component: {tld1, tld2, ...}} - tracks which TLDs use each component
         - component_total_count: {component: total_count} - counts every occurrence
+        - tld_components: {tld: [component1, component2, ...]} - tracks which components each TLD uses
     """
     component_tlds = defaultdict(set)
     component_total_count = defaultdict(int)
+    tld_components = defaultdict(list)
     
     for line in lines:
         line = line.strip()
@@ -64,6 +67,9 @@ def parse_domains(lines, exclude_tlds={'it', 'jp', 'no'}):
         
         # Split into parts
         parts = line.split('.')
+        
+        # Filter out empty parts (from cases like *.sch.uk -> .sch.uk)
+        parts = [p for p in parts if p]
         
         # Skip if it's just a TLD (1 part)
         if len(parts) < 2:
@@ -79,12 +85,17 @@ def parse_domains(lines, exclude_tlds={'it', 'jp', 'no'}):
         # Extract all components except the TLD (rightmost)
         # We want 2nd level, 3rd level, etc.
         for component in parts[:-1]:
+            # Skip empty components (shouldn't happen after filtering, but be safe)
+            if not component:
+                continue
             # Store which TLD uses this component (for unique TLD count)
             component_tlds[component].add(tld)
             # Count every occurrence (for total count)
             component_total_count[component] += 1
+            # Track which components each TLD uses
+            tld_components[tld].append(component)
     
-    return component_tlds, component_total_count
+    return component_tlds, component_total_count, tld_components
 
 def calculate_frequencies(component_tlds, component_total_count):
     """
@@ -116,6 +127,64 @@ def write_csv(filename, data):
     
     print(f"Written {len(sorted_data)} entries to {filename}")
 
+
+def write_json_string_to_tlds(filename, component_tlds, component_total_count):
+    """
+    Write JSON file: string -> count and list of TLDs using it
+    Format: {
+        "string1": {
+            "count": 10,
+            "tlds": ["tld1", "tld2", ...]
+        },
+        ...
+    }
+    Ordered by count (descending), then alphabetically
+    """
+    # Sort by count descending, then alphabetically
+    sorted_components = sorted(
+        component_tlds.keys(),
+        key=lambda x: (-component_total_count[x], x)
+    )
+    
+    # Use a list of tuples to maintain order, then convert to dict
+    data = {}
+    for component in sorted_components:
+        data[component] = {
+            "count": component_total_count[component],
+            "tlds": sorted(list(component_tlds[component]))
+        }
+    
+    with open(filename, 'w', encoding='utf-8') as f:
+        json.dump(data, f, indent=2, ensure_ascii=False)
+    
+    print(f"Written {len(data)} entries to {filename}")
+
+
+def write_json_tld_to_strings(filename, tld_components, component_total_count):
+    """
+    Write JSON file: TLD -> list of strings ordered by count
+    Format: {
+        "tld1": ["string1", "string2", ...],
+        ...
+    }
+    Strings are ordered by their total count (descending)
+    """
+    data = {}
+    for tld in sorted(tld_components.keys()):
+        # Get unique components for this TLD
+        unique_components = list(set(tld_components[tld]))
+        # Sort by count (descending), then alphabetically
+        sorted_components = sorted(
+            unique_components,
+            key=lambda x: (-component_total_count[x], x)
+        )
+        data[tld] = sorted_components
+    
+    with open(filename, 'w', encoding='utf-8') as f:
+        json.dump(data, f, indent=2, ensure_ascii=False)
+    
+    print(f"Written {len(data)} entries to {filename}")
+
 def main():
     print("Fetching Public Suffix List...")
     psl_content = fetch_psl()
@@ -125,8 +194,9 @@ def main():
     print(f"Found {len(icann_lines)} lines in ICANN section")
     
     print("Parsing domains (excluding .it, .jp, .no)...")
-    component_tlds, component_total_count = parse_domains(icann_lines)
+    component_tlds, component_total_count, tld_components = parse_domains(icann_lines)
     print(f"Found {len(component_tlds)} unique components")
+    print(f"Found {len(tld_components)} unique TLDs")
     
     print("Calculating frequencies...")
     total_freq, unique_tld_freq = calculate_frequencies(component_tlds, component_total_count)
@@ -135,6 +205,10 @@ def main():
     print("\nWriting output files...")
     write_csv('sld_popularity_total.csv', total_freq)
     write_csv('sld_popularity_unique_tld.csv', unique_tld_freq)
+    
+    print("\nWriting JSON files...")
+    write_json_string_to_tlds('sld_string_to_tlds.json', component_tlds, component_total_count)
+    write_json_tld_to_strings('sld_tld_to_strings.json', tld_components, component_total_count)
     
     # Print top 10 most popular
     print("\nTop 10 most popular components (total):")

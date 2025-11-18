@@ -1,0 +1,7653 @@
+{
+  "gov": {
+    "count": 218,
+    "tlds": [
+      "ac",
+      "ae",
+      "af",
+      "al",
+      "ao",
+      "ar",
+      "as",
+      "au",
+      "az",
+      "ba",
+      "bb",
+      "bd",
+      "bf",
+      "bh",
+      "bm",
+      "bn",
+      "br",
+      "bs",
+      "bt",
+      "bw",
+      "by",
+      "bz",
+      "cd",
+      "cl",
+      "cm",
+      "cn",
+      "co",
+      "cx",
+      "cy",
+      "cz",
+      "dm",
+      "do",
+      "dz",
+      "ec",
+      "ee",
+      "eg",
+      "et",
+      "fj",
+      "gd",
+      "ge",
+      "gh",
+      "gi",
+      "gn",
+      "gr",
+      "gu",
+      "gy",
+      "hk",
+      "ie",
+      "il",
+      "in",
+      "io",
+      "iq",
+      "ir",
+      "jo",
+      "kg",
+      "ki",
+      "km",
+      "kn",
+      "kp",
+      "kw",
+      "kz",
+      "la",
+      "lb",
+      "lc",
+      "lk",
+      "lr",
+      "ls",
+      "lt",
+      "lv",
+      "ly",
+      "ma",
+      "me",
+      "mg",
+      "mk",
+      "ml",
+      "mn",
+      "mo",
+      "mr",
+      "ms",
+      "mu",
+      "mv",
+      "mw",
+      "my",
+      "mz",
+      "na",
+      "ng",
+      "nr",
+      "om",
+      "ph",
+      "pk",
+      "pl",
+      "pn",
+      "pr",
+      "ps",
+      "pt",
+      "pw",
+      "py",
+      "qa",
+      "rs",
+      "rw",
+      "sa",
+      "sb",
+      "sc",
+      "sd",
+      "sg",
+      "sh",
+      "sl",
+      "so",
+      "ss",
+      "sx",
+      "sy",
+      "tj",
+      "tl",
+      "tm",
+      "tn",
+      "to",
+      "tr",
+      "tt",
+      "tw",
+      "ua",
+      "ug",
+      "uk",
+      "vc",
+      "ve",
+      "vn",
+      "ws",
+      "ye",
+      "za",
+      "zm",
+      "zw"
+    ]
+  },
+  "org": {
+    "count": 154,
+    "tlds": [
+      "ac",
+      "ae",
+      "af",
+      "ag",
+      "ai",
+      "al",
+      "am",
+      "ao",
+      "ar",
+      "au",
+      "az",
+      "ba",
+      "bb",
+      "bd",
+      "bh",
+      "bi",
+      "bj",
+      "bm",
+      "bn",
+      "bo",
+      "br",
+      "bs",
+      "bt",
+      "bw",
+      "bz",
+      "ci",
+      "cn",
+      "co",
+      "cu",
+      "cv",
+      "cw",
+      "cy",
+      "dm",
+      "do",
+      "dz",
+      "ec",
+      "ee",
+      "eg",
+      "es",
+      "et",
+      "fj",
+      "fm",
+      "ge",
+      "gg",
+      "gh",
+      "gi",
+      "gl",
+      "gn",
+      "gp",
+      "gr",
+      "gt",
+      "gu",
+      "gy",
+      "hk",
+      "hn",
+      "ht",
+      "hu",
+      "il",
+      "im",
+      "in",
+      "io",
+      "iq",
+      "ir",
+      "je",
+      "jo",
+      "kg",
+      "ki",
+      "km",
+      "kn",
+      "kp",
+      "kw",
+      "ky",
+      "kz",
+      "la",
+      "lb",
+      "lc",
+      "lk",
+      "lr",
+      "ls",
+      "lv",
+      "ly",
+      "ma",
+      "me",
+      "mg",
+      "mk",
+      "ml",
+      "mn",
+      "mo",
+      "ms",
+      "mt",
+      "mu",
+      "mv",
+      "mw",
+      "mx",
+      "my",
+      "mz",
+      "na",
+      "ng",
+      "ni",
+      "nr",
+      "nz",
+      "om",
+      "pa",
+      "pe",
+      "pf",
+      "ph",
+      "pk",
+      "pl",
+      "pn",
+      "pr",
+      "ps",
+      "pt",
+      "py",
+      "qa",
+      "ro",
+      "rs",
+      "rw",
+      "sa",
+      "sb",
+      "sc",
+      "sd",
+      "se",
+      "sg",
+      "sh",
+      "sl",
+      "sn",
+      "so",
+      "ss",
+      "st",
+      "sv",
+      "sy",
+      "sz",
+      "tj",
+      "tm",
+      "tn",
+      "to",
+      "tr",
+      "tt",
+      "tw",
+      "ua",
+      "ug",
+      "uk",
+      "uy",
+      "uz",
+      "vc",
+      "ve",
+      "vi",
+      "vn",
+      "vu",
+      "ws",
+      "ye",
+      "za",
+      "zm",
+      "zw"
+    ]
+  },
+  "edu": {
+    "count": 139,
+    "tlds": [
+      "ac",
+      "af",
+      "al",
+      "ao",
+      "ar",
+      "au",
+      "az",
+      "ba",
+      "bb",
+      "bd",
+      "bh",
+      "bi",
+      "bj",
+      "bm",
+      "bn",
+      "bo",
+      "br",
+      "bs",
+      "bt",
+      "bz",
+      "ci",
+      "cn",
+      "co",
+      "cu",
+      "cv",
+      "cw",
+      "dm",
+      "do",
+      "dz",
+      "ec",
+      "ee",
+      "eg",
+      "es",
+      "et",
+      "fj",
+      "fm",
+      "gd",
+      "ge",
+      "gh",
+      "gi",
+      "gl",
+      "gn",
+      "gp",
+      "gr",
+      "gt",
+      "gu",
+      "gy",
+      "hk",
+      "hn",
+      "ht",
+      "in",
+      "io",
+      "iq",
+      "jo",
+      "kg",
+      "ki",
+      "km",
+      "kn",
+      "kp",
+      "kw",
+      "ky",
+      "kz",
+      "la",
+      "lb",
+      "lc",
+      "lk",
+      "lr",
+      "ls",
+      "lv",
+      "ly",
+      "me",
+      "mg",
+      "mk",
+      "ml",
+      "mn",
+      "mo",
+      "ms",
+      "mt",
+      "mv",
+      "mw",
+      "mx",
+      "my",
+      "mz",
+      "ng",
+      "ni",
+      "nr",
+      "om",
+      "pa",
+      "pe",
+      "pf",
+      "ph",
+      "pk",
+      "pl",
+      "pn",
+      "pr",
+      "ps",
+      "pt",
+      "py",
+      "qa",
+      "rs",
+      "sa",
+      "sb",
+      "sc",
+      "sd",
+      "sg",
+      "sl",
+      "sn",
+      "so",
+      "ss",
+      "st",
+      "sv",
+      "sy",
+      "tj",
+      "tm",
+      "to",
+      "tr",
+      "tt",
+      "tw",
+      "ua",
+      "ug",
+      "uy",
+      "vc",
+      "ve",
+      "vg",
+      "vn",
+      "vu",
+      "ws",
+      "ye",
+      "za",
+      "zm"
+    ]
+  },
+  "net": {
+    "count": 139,
+    "tlds": [
+      "ac",
+      "ae",
+      "af",
+      "ag",
+      "ai",
+      "al",
+      "am",
+      "ar",
+      "au",
+      "az",
+      "ba",
+      "bb",
+      "bd",
+      "bh",
+      "bj",
+      "bm",
+      "bn",
+      "bo",
+      "br",
+      "bs",
+      "bt",
+      "bw",
+      "bz",
+      "ci",
+      "cm",
+      "cn",
+      "co",
+      "cu",
+      "cv",
+      "cw",
+      "cy",
+      "dm",
+      "do",
+      "dz",
+      "ec",
+      "eg",
+      "et",
+      "fj",
+      "fm",
+      "ge",
+      "gg",
+      "gh",
+      "gl",
+      "gn",
+      "gp",
+      "gr",
+      "gt",
+      "gu",
+      "gy",
+      "hk",
+      "hn",
+      "ht",
+      "id",
+      "il",
+      "im",
+      "in",
+      "io",
+      "iq",
+      "ir",
+      "je",
+      "jo",
+      "kg",
+      "ki",
+      "kn",
+      "kw",
+      "ky",
+      "kz",
+      "la",
+      "lb",
+      "lc",
+      "lk",
+      "lr",
+      "ls",
+      "lv",
+      "ly",
+      "ma",
+      "me",
+      "mk",
+      "ml",
+      "mo",
+      "ms",
+      "mt",
+      "mu",
+      "mv",
+      "mw",
+      "mx",
+      "my",
+      "mz",
+      "na",
+      "nf",
+      "ng",
+      "ni",
+      "nr",
+      "nz",
+      "om",
+      "pa",
+      "pe",
+      "ph",
+      "pk",
+      "pl",
+      "pn",
+      "pr",
+      "ps",
+      "pt",
+      "py",
+      "qa",
+      "rw",
+      "sa",
+      "sb",
+      "sc",
+      "sd",
+      "sg",
+      "sh",
+      "sl",
+      "so",
+      "ss",
+      "st",
+      "sy",
+      "th",
+      "tj",
+      "tm",
+      "tn",
+      "to",
+      "tr",
+      "tt",
+      "tw",
+      "ua",
+      "uk",
+      "uy",
+      "uz",
+      "vc",
+      "ve",
+      "vi",
+      "vn",
+      "vu",
+      "ws",
+      "ye",
+      "za",
+      "zm"
+    ]
+  },
+  "com": {
+    "count": 138,
+    "tlds": [
+      "ac",
+      "af",
+      "ag",
+      "ai",
+      "al",
+      "am",
+      "ar",
+      "au",
+      "aw",
+      "az",
+      "ba",
+      "bb",
+      "bd",
+      "bh",
+      "bi",
+      "bj",
+      "bm",
+      "bn",
+      "bo",
+      "br",
+      "bs",
+      "bt",
+      "by",
+      "bz",
+      "ci",
+      "cm",
+      "cn",
+      "co",
+      "cu",
+      "cv",
+      "cw",
+      "cy",
+      "dm",
+      "do",
+      "dz",
+      "ec",
+      "ee",
+      "eg",
+      "es",
+      "et",
+      "fj",
+      "fm",
+      "fr",
+      "ge",
+      "gh",
+      "gi",
+      "gl",
+      "gn",
+      "gp",
+      "gr",
+      "gt",
+      "gu",
+      "gy",
+      "hk",
+      "hn",
+      "hr",
+      "ht",
+      "im",
+      "in",
+      "io",
+      "iq",
+      "jo",
+      "kg",
+      "ki",
+      "km",
+      "kp",
+      "kw",
+      "ky",
+      "kz",
+      "la",
+      "lb",
+      "lc",
+      "lk",
+      "lr",
+      "lv",
+      "ly",
+      "mg",
+      "mk",
+      "ml",
+      "mo",
+      "ms",
+      "mt",
+      "mu",
+      "mv",
+      "mw",
+      "mx",
+      "my",
+      "na",
+      "nf",
+      "ng",
+      "ni",
+      "nr",
+      "om",
+      "pa",
+      "pe",
+      "pf",
+      "ph",
+      "pk",
+      "pl",
+      "pr",
+      "ps",
+      "pt",
+      "py",
+      "qa",
+      "re",
+      "ro",
+      "sa",
+      "sb",
+      "sc",
+      "sd",
+      "sg",
+      "sh",
+      "sl",
+      "sn",
+      "so",
+      "ss",
+      "st",
+      "sv",
+      "sy",
+      "tj",
+      "tm",
+      "tn",
+      "to",
+      "tr",
+      "tt",
+      "tw",
+      "ua",
+      "ug",
+      "uy",
+      "uz",
+      "vc",
+      "ve",
+      "vi",
+      "vn",
+      "vu",
+      "ws",
+      "ye",
+      "zm"
+    ]
+  },
+  "co": {
+    "count": 67,
+    "tlds": [
+      "ae",
+      "ag",
+      "am",
+      "ao",
+      "at",
+      "az",
+      "bb",
+      "bd",
+      "bi",
+      "bj",
+      "bw",
+      "bz",
+      "ci",
+      "cl",
+      "cm",
+      "cr",
+      "dm",
+      "gg",
+      "gl",
+      "gy",
+      "hu",
+      "id",
+      "il",
+      "im",
+      "in",
+      "io",
+      "ir",
+      "je",
+      "ke",
+      "kr",
+      "lc",
+      "ls",
+      "ma",
+      "me",
+      "mg",
+      "mu",
+      "mw",
+      "mz",
+      "na",
+      "ni",
+      "nz",
+      "om",
+      "pn",
+      "rs",
+      "rw",
+      "ss",
+      "st",
+      "sz",
+      "th",
+      "tj",
+      "tm",
+      "tt",
+      "tz",
+      "ug",
+      "uk",
+      "us",
+      "uz",
+      "ve",
+      "vi",
+      "za",
+      "zm",
+      "zw"
+    ]
+  },
+  "mil": {
+    "count": 62,
+    "tlds": [
+      "ac",
+      "ae",
+      "al",
+      "ar",
+      "az",
+      "ba",
+      "bd",
+      "bo",
+      "br",
+      "by",
+      "cl",
+      "cn",
+      "co",
+      "cy",
+      "do",
+      "ec",
+      "eg",
+      "fj",
+      "gh",
+      "gt",
+      "hn",
+      "id",
+      "in",
+      "io",
+      "iq",
+      "jo",
+      "kg",
+      "km",
+      "kr",
+      "kz",
+      "lv",
+      "mg",
+      "mv",
+      "my",
+      "mz",
+      "ng",
+      "ni",
+      "nz",
+      "pe",
+      "ph",
+      "pl",
+      "py",
+      "qa",
+      "rw",
+      "sh",
+      "st",
+      "sy",
+      "tj",
+      "tm",
+      "to",
+      "tr",
+      "tt",
+      "tw",
+      "tz",
+      "ug",
+      "uy",
+      "vc",
+      "ve",
+      "ye",
+      "za",
+      "zm",
+      "zw"
+    ]
+  },
+  "k12": {
+    "count": 56,
+    "tlds": [
+      "ec",
+      "il",
+      "tr",
+      "us",
+      "vi"
+    ]
+  },
+  "cc": {
+    "count": 55,
+    "tlds": [
+      "us"
+    ]
+  },
+  "lib": {
+    "count": 53,
+    "tlds": [
+      "ee",
+      "us"
+    ]
+  },
+  "ac": {
+    "count": 47,
+    "tlds": [
+      "ae",
+      "at",
+      "bd",
+      "be",
+      "br",
+      "bw",
+      "ci",
+      "cn",
+      "cr",
+      "cy",
+      "eg",
+      "fj",
+      "gn",
+      "id",
+      "il",
+      "im",
+      "in",
+      "ir",
+      "ke",
+      "kr",
+      "lk",
+      "ls",
+      "ma",
+      "me",
+      "ml",
+      "mu",
+      "mw",
+      "mz",
+      "ni",
+      "nz",
+      "pa",
+      "pk",
+      "pr",
+      "rs",
+      "rw",
+      "se",
+      "sz",
+      "th",
+      "tj",
+      "tz",
+      "ug",
+      "uk",
+      "vn",
+      "za",
+      "zm",
+      "zw"
+    ]
+  },
+  "info": {
+    "count": 33,
+    "tlds": [
+      "az",
+      "bb",
+      "bd",
+      "bj",
+      "bo",
+      "ec",
+      "eg",
+      "et",
+      "fj",
+      "gu",
+      "ht",
+      "hu",
+      "in",
+      "ke",
+      "ki",
+      "la",
+      "ls",
+      "ml",
+      "mv",
+      "nf",
+      "ni",
+      "nr",
+      "pl",
+      "pr",
+      "ro",
+      "sd",
+      "tn",
+      "tr",
+      "tt",
+      "tz",
+      "ve",
+      "vn",
+      "zm"
+    ]
+  },
+  "biz": {
+    "count": 24,
+    "tlds": [
+      "az",
+      "bb",
+      "cy",
+      "et",
+      "fj",
+      "gh",
+      "id",
+      "in",
+      "ki",
+      "ls",
+      "mv",
+      "mw",
+      "my",
+      "ni",
+      "nr",
+      "pk",
+      "pl",
+      "pr",
+      "ss",
+      "tj",
+      "tr",
+      "tt",
+      "vn",
+      "zm"
+    ]
+  },
+  "nom": {
+    "count": 17,
+    "tlds": [
+      "ag",
+      "br",
+      "co",
+      "es",
+      "fr",
+      "io",
+      "km",
+      "mg",
+      "nc",
+      "ni",
+      "pa",
+      "pe",
+      "pl",
+      "ro",
+      "tm",
+      "ve",
+      "za"
+    ]
+  },
+  "gob": {
+    "count": 16,
+    "tlds": [
+      "ar",
+      "bo",
+      "cl",
+      "cu",
+      "do",
+      "ec",
+      "es",
+      "gt",
+      "hn",
+      "mx",
+      "ni",
+      "pa",
+      "pe",
+      "pk",
+      "sv",
+      "ve"
+    ]
+  },
+  "int": {
+    "count": 15,
+    "tlds": [
+      "ar",
+      "az",
+      "bo",
+      "ci",
+      "cv",
+      "in",
+      "la",
+      "lk",
+      "mv",
+      "mw",
+      "ni",
+      "pt",
+      "tj",
+      "ve",
+      "vn"
+    ]
+  },
+  "name": {
+    "count": 15,
+    "tlds": [
+      "az",
+      "eg",
+      "et",
+      "fj",
+      "hr",
+      "mk",
+      "mv",
+      "my",
+      "ng",
+      "pr",
+      "qa",
+      "tj",
+      "tr",
+      "tt",
+      "vn"
+    ]
+  },
+  "or": {
+    "count": 15,
+    "tlds": [
+      "at",
+      "bi",
+      "ci",
+      "cr",
+      "id",
+      "ke",
+      "kr",
+      "mu",
+      "th",
+      "tz",
+      "ug",
+      "us"
+    ]
+  },
+  "mi": {
+    "count": 13,
+    "tlds": [
+      "th",
+      "us"
+    ]
+  },
+  "sch": {
+    "count": 13,
+    "tlds": [
+      "ae",
+      "bd",
+      "id",
+      "ir",
+      "jo",
+      "lk",
+      "ly",
+      "ng",
+      "qa",
+      "sa",
+      "ss",
+      "uk",
+      "zm"
+    ]
+  },
+  "id": {
+    "count": 12,
+    "tlds": [
+      "au",
+      "bd",
+      "cv",
+      "fj",
+      "ir",
+      "lv",
+      "ly",
+      "us",
+      "vn"
+    ]
+  },
+  "me": {
+    "count": 12,
+    "tlds": [
+      "eg",
+      "in",
+      "ke",
+      "kr",
+      "so",
+      "ss",
+      "tz",
+      "uk",
+      "us"
+    ]
+  },
+  "pro": {
+    "count": 12,
+    "tlds": [
+      "az",
+      "br",
+      "cy",
+      "ec",
+      "fj",
+      "ht",
+      "in",
+      "mv",
+      "om",
+      "pr",
+      "tt",
+      "vn"
+    ]
+  },
+  "web": {
+    "count": 12,
+    "tlds": [
+      "bo",
+      "do",
+      "gu",
+      "id",
+      "lk",
+      "nf",
+      "ni",
+      "pk",
+      "tj",
+      "tr",
+      "ve",
+      "za"
+    ]
+  },
+  "sc": {
+    "count": 11,
+    "tlds": [
+      "br",
+      "cn",
+      "ke",
+      "kr",
+      "ls",
+      "tz",
+      "ug",
+      "us"
+    ]
+  },
+  "tv": {
+    "count": 11,
+    "tlds": [
+      "bb",
+      "bd",
+      "bo",
+      "br",
+      "eg",
+      "im",
+      "in",
+      "jo",
+      "sd",
+      "tr",
+      "tz"
+    ]
+  },
+  "asso": {
+    "count": 10,
+    "tlds": [
+      "ci",
+      "dz",
+      "fr",
+      "gp",
+      "ht",
+      "km",
+      "mc",
+      "ml",
+      "nc",
+      "re"
+    ]
+  },
+  "go": {
+    "count": 10,
+    "tlds": [
+      "br",
+      "ci",
+      "cr",
+      "id",
+      "ke",
+      "kr",
+      "th",
+      "tj",
+      "tz",
+      "ug"
+    ]
+  },
+  "med": {
+    "count": 10,
+    "tlds": [
+      "br",
+      "ec",
+      "ee",
+      "ht",
+      "ly",
+      "om",
+      "pa",
+      "pro",
+      "sa",
+      "sd"
+    ]
+  },
+  "tm": {
+    "count": 10,
+    "tlds": [
+      "cy",
+      "dz",
+      "fr",
+      "hu",
+      "km",
+      "mc",
+      "pl",
+      "ro",
+      "se",
+      "za"
+    ]
+  },
+  "coop": {
+    "count": 9,
+    "tlds": [
+      "ar",
+      "br",
+      "ht",
+      "in",
+      "km",
+      "mv",
+      "mw",
+      "py",
+      "rw"
+    ]
+  },
+  "in": {
+    "count": 8,
+    "tlds": [
+      "ni",
+      "rs",
+      "th",
+      "ua",
+      "us"
+    ]
+  },
+  "ma": {
+    "count": 8,
+    "tlds": [
+      "br",
+      "us"
+    ]
+  },
+  "ne": {
+    "count": 8,
+    "tlds": [
+      "ke",
+      "kr",
+      "tz",
+      "ug",
+      "us"
+    ]
+  },
+  "art": {
+    "count": 7,
+    "tlds": [
+      "br",
+      "do",
+      "dz",
+      "ec",
+      "ht",
+      "ml",
+      "sn"
+    ]
+  },
+  "pr": {
+    "count": 7,
+    "tlds": [
+      "br",
+      "ml",
+      "pl",
+      "us"
+    ]
+  },
+  "wa": {
+    "count": 7,
+    "tlds": [
+      "au",
+      "us"
+    ]
+  },
+  "gouv": {
+    "count": 6,
+    "tlds": [
+      "ci",
+      "fr",
+      "ht",
+      "km",
+      "ml",
+      "sn"
+    ]
+  },
+  "ia": {
+    "count": 6,
+    "tlds": [
+      "br",
+      "us",
+      "ve"
+    ]
+  },
+  "nc": {
+    "count": 6,
+    "tlds": [
+      "tr",
+      "us"
+    ]
+  },
+  "pa": {
+    "count": 6,
+    "tlds": [
+      "br",
+      "pl",
+      "us"
+    ]
+  },
+  "ai": {
+    "count": 5,
+    "tlds": [
+      "bd",
+      "in",
+      "jo",
+      "kr",
+      "vn"
+    ]
+  },
+  "al": {
+    "count": 5,
+    "tlds": [
+      "br",
+      "us"
+    ]
+  },
+  "ca": {
+    "count": 5,
+    "tlds": [
+      "in",
+      "us"
+    ]
+  },
+  "firm": {
+    "count": 5,
+    "tlds": [
+      "ht",
+      "in",
+      "nf",
+      "ro",
+      "ve"
+    ]
+  },
+  "ind": {
+    "count": 5,
+    "tlds": [
+      "br",
+      "gt",
+      "in",
+      "kw",
+      "tn"
+    ]
+  },
+  "ks": {
+    "count": 5,
+    "tlds": [
+      "ua",
+      "us"
+    ]
+  },
+  "ltd": {
+    "count": 5,
+    "tlds": [
+      "cy",
+      "gi",
+      "im",
+      "lk",
+      "uk"
+    ]
+  },
+  "mo": {
+    "count": 5,
+    "tlds": [
+      "cn",
+      "us"
+    ]
+  },
+  "ms": {
+    "count": 5,
+    "tlds": [
+      "br",
+      "kr",
+      "us"
+    ]
+  },
+  "mt": {
+    "count": 5,
+    "tlds": [
+      "br",
+      "us"
+    ]
+  },
+  "nm": {
+    "count": 5,
+    "tlds": [
+      "cn",
+      "us"
+    ]
+  },
+  "sa": {
+    "count": 5,
+    "tlds": [
+      "au",
+      "cr",
+      "pl"
+    ]
+  },
+  "store": {
+    "count": 5,
+    "tlds": [
+      "bb",
+      "nf",
+      "ro",
+      "st",
+      "ve"
+    ]
+  },
+  "ak": {
+    "count": 4,
+    "tlds": [
+      "us"
+    ]
+  },
+  "ar": {
+    "count": 4,
+    "tlds": [
+      "us"
+    ]
+  },
+  "as": {
+    "count": 4,
+    "tlds": [
+      "us"
+    ]
+  },
+  "az": {
+    "count": 4,
+    "tlds": [
+      "us"
+    ]
+  },
+  "ct": {
+    "count": 4,
+    "tlds": [
+      "us"
+    ]
+  },
+  "dc": {
+    "count": 4,
+    "tlds": [
+      "us"
+    ]
+  },
+  "eng": {
+    "count": 4,
+    "tlds": [
+      "br",
+      "ec",
+      "jo",
+      "pro"
+    ]
+  },
+  "fl": {
+    "count": 4,
+    "tlds": [
+      "us"
+    ]
+  },
+  "ga": {
+    "count": 4,
+    "tlds": [
+      "us"
+    ]
+  },
+  "gen": {
+    "count": 4,
+    "tlds": [
+      "in",
+      "nz",
+      "tr",
+      "us"
+    ]
+  },
+  "gu": {
+    "count": 4,
+    "tlds": [
+      "us"
+    ]
+  },
+  "hi": {
+    "count": 4,
+    "tlds": [
+      "cn",
+      "us"
+    ]
+  },
+  "i": {
+    "count": 4,
+    "tlds": [
+      "bg",
+      "ng",
+      "ph",
+      "se"
+    ]
+  },
+  "il": {
+    "count": 4,
+    "tlds": [
+      "us"
+    ]
+  },
+  "ky": {
+    "count": 4,
+    "tlds": [
+      "us"
+    ]
+  },
+  "la": {
+    "count": 4,
+    "tlds": [
+      "us"
+    ]
+  },
+  "md": {
+    "count": 4,
+    "tlds": [
+      "us"
+    ]
+  },
+  "mn": {
+    "count": 4,
+    "tlds": [
+      "us"
+    ]
+  },
+  "mobi": {
+    "count": 4,
+    "tlds": [
+      "gp",
+      "ke",
+      "ng",
+      "tz"
+    ]
+  },
+  "nh": {
+    "count": 4,
+    "tlds": [
+      "us"
+    ]
+  },
+  "nj": {
+    "count": 4,
+    "tlds": [
+      "us"
+    ]
+  },
+  "nt": {
+    "count": 4,
+    "tlds": [
+      "au",
+      "ca",
+      "ro"
+    ]
+  },
+  "nv": {
+    "count": 4,
+    "tlds": [
+      "us"
+    ]
+  },
+  "ny": {
+    "count": 4,
+    "tlds": [
+      "us"
+    ]
+  },
+  "oh": {
+    "count": 4,
+    "tlds": [
+      "us"
+    ]
+  },
+  "ok": {
+    "count": 4,
+    "tlds": [
+      "us"
+    ]
+  },
+  "press": {
+    "count": 4,
+    "tlds": [
+      "aero",
+      "cy",
+      "ma",
+      "se"
+    ]
+  },
+  "rec": {
+    "count": 4,
+    "tlds": [
+      "br",
+      "nf",
+      "ro",
+      "ve"
+    ]
+  },
+  "sd": {
+    "count": 4,
+    "tlds": [
+      "cn",
+      "us"
+    ]
+  },
+  "tn": {
+    "count": 4,
+    "tlds": [
+      "us"
+    ]
+  },
+  "tx": {
+    "count": 4,
+    "tlds": [
+      "us"
+    ]
+  },
+  "ut": {
+    "count": 4,
+    "tlds": [
+      "us"
+    ]
+  },
+  "va": {
+    "count": 4,
+    "tlds": [
+      "us"
+    ]
+  },
+  "vi": {
+    "count": 4,
+    "tlds": [
+      "us"
+    ]
+  },
+  "vt": {
+    "count": 4,
+    "tlds": [
+      "us"
+    ]
+  },
+  "wi": {
+    "count": 4,
+    "tlds": [
+      "us"
+    ]
+  },
+  "wy": {
+    "count": 4,
+    "tlds": [
+      "us"
+    ]
+  },
+  "agro": {
+    "count": 3,
+    "tlds": [
+      "bj",
+      "bo",
+      "pl"
+    ]
+  },
+  "am": {
+    "count": 3,
+    "tlds": [
+      "br",
+      "in"
+    ]
+  },
+  "arts": {
+    "count": 3,
+    "tlds": [
+      "nf",
+      "ro",
+      "ve"
+    ]
+  },
+  "b": {
+    "count": 3,
+    "tlds": [
+      "bg",
+      "br",
+      "se"
+    ]
+  },
+  "ed": {
+    "count": 3,
+    "tlds": [
+      "ao",
+      "ci",
+      "cr"
+    ]
+  },
+  "fin": {
+    "count": 3,
+    "tlds": [
+      "ec",
+      "in",
+      "tn"
+    ]
+  },
+  "hotel": {
+    "count": 3,
+    "tlds": [
+      "hu",
+      "lk",
+      "tz"
+    ]
+  },
+  "inf": {
+    "count": 3,
+    "tlds": [
+      "br",
+      "cu",
+      "mk"
+    ]
+  },
+  "io": {
+    "count": 3,
+    "tlds": [
+      "in",
+      "kr",
+      "vn"
+    ]
+  },
+  "it": {
+    "count": 3,
+    "tlds": [
+      "ao",
+      "bd",
+      "kr"
+    ]
+  },
+  "media": {
+    "count": 3,
+    "tlds": [
+      "aero",
+      "hu",
+      "pl"
+    ]
+  },
+  "nd": {
+    "count": 3,
+    "tlds": [
+      "us"
+    ]
+  },
+  "ngo": {
+    "count": 3,
+    "tlds": [
+      "lk",
+      "ph",
+      "za"
+    ]
+  },
+  "nic": {
+    "count": 3,
+    "tlds": [
+      "in",
+      "tj",
+      "za"
+    ]
+  },
+  "pe": {
+    "count": 3,
+    "tlds": [
+      "br",
+      "ca",
+      "kr"
+    ]
+  },
+  "per": {
+    "count": 3,
+    "tlds": [
+      "jo",
+      "la",
+      "nf"
+    ]
+  },
+  "perso": {
+    "count": 3,
+    "tlds": [
+      "ht",
+      "sn",
+      "tn"
+    ]
+  },
+  "plc": {
+    "count": 3,
+    "tlds": [
+      "im",
+      "ly",
+      "uk"
+    ]
+  },
+  "pol": {
+    "count": 3,
+    "tlds": [
+      "dz",
+      "ht",
+      "tr"
+    ]
+  },
+  "prd": {
+    "count": 3,
+    "tlds": [
+      "fr",
+      "km",
+      "mg"
+    ]
+  },
+  "priv": {
+    "count": 3,
+    "tlds": [
+      "hu",
+      "me",
+      "pl"
+    ]
+  },
+  "qld": {
+    "count": 3,
+    "tlds": [
+      "au"
+    ]
+  },
+  "ri": {
+    "count": 3,
+    "tlds": [
+      "us"
+    ]
+  },
+  "school": {
+    "count": 3,
+    "tlds": [
+      "ge",
+      "nz",
+      "za"
+    ]
+  },
+  "shop": {
+    "count": 3,
+    "tlds": [
+      "ht",
+      "hu",
+      "pl"
+    ]
+  },
+  "tas": {
+    "count": 3,
+    "tlds": [
+      "au"
+    ]
+  },
+  "tec": {
+    "count": 3,
+    "tlds": [
+      "br",
+      "us",
+      "ve"
+    ]
+  },
+  "tourism": {
+    "count": 3,
+    "tlds": [
+      "bj",
+      "pl",
+      "tn"
+    ]
+  },
+  "tur": {
+    "count": 3,
+    "tlds": [
+      "ar",
+      "br",
+      "ec"
+    ]
+  },
+  "us": {
+    "count": 3,
+    "tlds": [
+      "in",
+      "pl",
+      "ug"
+    ]
+  },
+  "vic": {
+    "count": 3,
+    "tlds": [
+      "au"
+    ]
+  },
+  "公司": {
+    "count": 3,
+    "tlds": [
+      "cn",
+      "hk",
+      "香港"
+    ]
+  },
+  "網絡": {
+    "count": 3,
+    "tlds": [
+      "cn",
+      "hk",
+      "香港"
+    ]
+  },
+  "a": {
+    "count": 2,
+    "tlds": [
+      "bg",
+      "se"
+    ]
+  },
+  "act": {
+    "count": 2,
+    "tlds": [
+      "au"
+    ]
+  },
+  "adm": {
+    "count": 2,
+    "tlds": [
+      "br",
+      "ec"
+    ]
+  },
+  "adv": {
+    "count": 2,
+    "tlds": [
+      "br",
+      "mz"
+    ]
+  },
+  "alt": {
+    "count": 2,
+    "tlds": [
+      "na",
+      "za"
+    ]
+  },
+  "ap": {
+    "count": 2,
+    "tlds": [
+      "br",
+      "pl"
+    ]
+  },
+  "asn": {
+    "count": 2,
+    "tlds": [
+      "au",
+      "lv"
+    ]
+  },
+  "bar": {
+    "count": 2,
+    "tlds": [
+      "ec",
+      "pro"
+    ]
+  },
+  "bet": {
+    "count": 2,
+    "tlds": [
+      "ar",
+      "br"
+    ]
+  },
+  "bib": {
+    "count": 2,
+    "tlds": [
+      "br",
+      "ve"
+    ]
+  },
+  "blog": {
+    "count": 2,
+    "tlds": [
+      "bo",
+      "br"
+    ]
+  },
+  "c": {
+    "count": 2,
+    "tlds": [
+      "bg",
+      "se"
+    ]
+  },
+  "club": {
+    "count": 2,
+    "tlds": [
+      "aero",
+      "tw"
+    ]
+  },
+  "cn": {
+    "count": 2,
+    "tlds": [
+      "in",
+      "ua"
+    ]
+  },
+  "conf": {
+    "count": 2,
+    "tlds": [
+      "au",
+      "lv"
+    ]
+  },
+  "cpa": {
+    "count": 2,
+    "tlds": [
+      "ec",
+      "pro"
+    ]
+  },
+  "cri": {
+    "count": 2,
+    "tlds": [
+      "br",
+      "nz"
+    ]
+  },
+  "d": {
+    "count": 2,
+    "tlds": [
+      "bg",
+      "se"
+    ]
+  },
+  "de": {
+    "count": 2,
+    "tlds": [
+      "us"
+    ]
+  },
+  "dr": {
+    "count": 2,
+    "tlds": [
+      "in",
+      "tr"
+    ]
+  },
+  "e": {
+    "count": 2,
+    "tlds": [
+      "bg",
+      "se"
+    ]
+  },
+  "eco": {
+    "count": 2,
+    "tlds": [
+      "bj",
+      "br"
+    ]
+  },
+  "es": {
+    "count": 2,
+    "tlds": [
+      "br",
+      "kr"
+    ]
+  },
+  "f": {
+    "count": 2,
+    "tlds": [
+      "bg",
+      "se"
+    ]
+  },
+  "fm": {
+    "count": 2,
+    "tlds": [
+      "br",
+      "jo"
+    ]
+  },
+  "fot": {
+    "count": 2,
+    "tlds": [
+      "br",
+      "ec"
+    ]
+  },
+  "g": {
+    "count": 2,
+    "tlds": [
+      "bg",
+      "se"
+    ]
+  },
+  "gv": {
+    "count": 2,
+    "tlds": [
+      "ao",
+      "at"
+    ]
+  },
+  "h": {
+    "count": 2,
+    "tlds": [
+      "bg",
+      "se"
+    ]
+  },
+  "health": {
+    "count": 2,
+    "tlds": [
+      "nz",
+      "vn"
+    ]
+  },
+  "idv": {
+    "count": 2,
+    "tlds": [
+      "hk",
+      "tw"
+    ]
+  },
+  "k": {
+    "count": 2,
+    "tlds": [
+      "bg",
+      "se"
+    ]
+  },
+  "l": {
+    "count": 2,
+    "tlds": [
+      "bg",
+      "se"
+    ]
+  },
+  "law": {
+    "count": 2,
+    "tlds": [
+      "pro",
+      "za"
+    ]
+  },
+  "m": {
+    "count": 2,
+    "tlds": [
+      "bg",
+      "se"
+    ]
+  },
+  "mus": {
+    "count": 2,
+    "tlds": [
+      "br",
+      "us"
+    ]
+  },
+  "museum": {
+    "count": 2,
+    "tlds": [
+      "mv",
+      "om"
+    ]
+  },
+  "musica": {
+    "count": 2,
+    "tlds": [
+      "ar",
+      "bo"
+    ]
+  },
+  "n": {
+    "count": 2,
+    "tlds": [
+      "bg",
+      "se"
+    ]
+  },
+  "nat": {
+    "count": 2,
+    "tlds": [
+      "cu",
+      "tn"
+    ]
+  },
+  "nome": {
+    "count": 2,
+    "tlds": [
+      "cv",
+      "pt"
+    ]
+  },
+  "nsw": {
+    "count": 2,
+    "tlds": [
+      "au"
+    ]
+  },
+  "ntr": {
+    "count": 2,
+    "tlds": [
+      "br",
+      "ec"
+    ]
+  },
+  "o": {
+    "count": 2,
+    "tlds": [
+      "bg",
+      "se"
+    ]
+  },
+  "p": {
+    "count": 2,
+    "tlds": [
+      "bg",
+      "se"
+    ]
+  },
+  "pb": {
+    "count": 2,
+    "tlds": [
+      "ao",
+      "br"
+    ]
+  },
+  "pp": {
+    "count": 2,
+    "tlds": [
+      "az",
+      "se"
+    ]
+  },
+  "presse": {
+    "count": 2,
+    "tlds": [
+      "km",
+      "ml"
+    ]
+  },
+  "prof": {
+    "count": 2,
+    "tlds": [
+      "ec",
+      "pr"
+    ]
+  },
+  "pub": {
+    "count": 2,
+    "tlds": [
+      "ec",
+      "sa"
+    ]
+  },
+  "publ": {
+    "count": 2,
+    "tlds": [
+      "cv",
+      "pt"
+    ]
+  },
+  "pvt": {
+    "count": 2,
+    "tlds": [
+      "ge",
+      "us"
+    ]
+  },
+  "r": {
+    "count": 2,
+    "tlds": [
+      "bg",
+      "se"
+    ]
+  },
+  "rel": {
+    "count": 2,
+    "tlds": [
+      "ht",
+      "pl"
+    ]
+  },
+  "rep": {
+    "count": 2,
+    "tlds": [
+      "br",
+      "kp"
+    ]
+  },
+  "res": {
+    "count": 2,
+    "tlds": [
+      "aero",
+      "in"
+    ]
+  },
+  "rio": {
+    "count": 2,
+    "tlds": [
+      "br",
+      "ec"
+    ]
+  },
+  "s": {
+    "count": 2,
+    "tlds": [
+      "bg",
+      "se"
+    ]
+  },
+  "seg": {
+    "count": 2,
+    "tlds": [
+      "ar",
+      "br"
+    ]
+  },
+  "sex": {
+    "count": 2,
+    "tlds": [
+      "hu",
+      "pl"
+    ]
+  },
+  "sld": {
+    "count": 2,
+    "tlds": [
+      "do",
+      "pa"
+    ]
+  },
+  "soc": {
+    "count": 2,
+    "tlds": [
+      "dz",
+      "lk"
+    ]
+  },
+  "sport": {
+    "count": 2,
+    "tlds": [
+      "eg",
+      "hu"
+    ]
+  },
+  "t": {
+    "count": 2,
+    "tlds": [
+      "bg",
+      "se"
+    ]
+  },
+  "taxi": {
+    "count": 2,
+    "tlds": [
+      "aero",
+      "br"
+    ]
+  },
+  "travel": {
+    "count": 2,
+    "tlds": [
+      "in",
+      "pl"
+    ]
+  },
+  "u": {
+    "count": 2,
+    "tlds": [
+      "bg",
+      "se"
+    ]
+  },
+  "univ": {
+    "count": 2,
+    "tlds": [
+      "bj",
+      "sn"
+    ]
+  },
+  "vet": {
+    "count": 2,
+    "tlds": [
+      "br",
+      "ec"
+    ]
+  },
+  "w": {
+    "count": 2,
+    "tlds": [
+      "bg",
+      "se"
+    ]
+  },
+  "wiki": {
+    "count": 2,
+    "tlds": [
+      "bo",
+      "br"
+    ]
+  },
+  "wv": {
+    "count": 2,
+    "tlds": [
+      "us"
+    ]
+  },
+  "www": {
+    "count": 2,
+    "tlds": [
+      "ck",
+      "ro"
+    ]
+  },
+  "x": {
+    "count": 2,
+    "tlds": [
+      "bg",
+      "se"
+    ]
+  },
+  "y": {
+    "count": 2,
+    "tlds": [
+      "bg",
+      "se"
+    ]
+  },
+  "z": {
+    "count": 2,
+    "tlds": [
+      "bg",
+      "se"
+    ]
+  },
+  "zp": {
+    "count": 2,
+    "tlds": [
+      "pl",
+      "ua"
+    ]
+  },
+  "個人": {
+    "count": 2,
+    "tlds": [
+      "hk",
+      "香港"
+    ]
+  },
+  "政府": {
+    "count": 2,
+    "tlds": [
+      "hk",
+      "香港"
+    ]
+  },
+  "教育": {
+    "count": 2,
+    "tlds": [
+      "hk",
+      "香港"
+    ]
+  },
+  "組織": {
+    "count": 2,
+    "tlds": [
+      "hk",
+      "香港"
+    ]
+  },
+  "网络": {
+    "count": 2,
+    "tlds": [
+      "cn",
+      "hk"
+    ]
+  },
+  "0": {
+    "count": 1,
+    "tlds": [
+      "bg"
+    ]
+  },
+  "1": {
+    "count": 1,
+    "tlds": [
+      "bg"
+    ]
+  },
+  "2": {
+    "count": 1,
+    "tlds": [
+      "bg"
+    ]
+  },
+  "2000": {
+    "count": 1,
+    "tlds": [
+      "hu"
+    ]
+  },
+  "3": {
+    "count": 1,
+    "tlds": [
+      "bg"
+    ]
+  },
+  "4": {
+    "count": 1,
+    "tlds": [
+      "bg"
+    ]
+  },
+  "5": {
+    "count": 1,
+    "tlds": [
+      "bg"
+    ]
+  },
+  "5g": {
+    "count": 1,
+    "tlds": [
+      "in"
+    ]
+  },
+  "6": {
+    "count": 1,
+    "tlds": [
+      "bg"
+    ]
+  },
+  "6g": {
+    "count": 1,
+    "tlds": [
+      "in"
+    ]
+  },
+  "7": {
+    "count": 1,
+    "tlds": [
+      "bg"
+    ]
+  },
+  "8": {
+    "count": 1,
+    "tlds": [
+      "bg"
+    ]
+  },
+  "9": {
+    "count": 1,
+    "tlds": [
+      "bg"
+    ]
+  },
+  "9guacu": {
+    "count": 1,
+    "tlds": [
+      "br"
+    ]
+  },
+  "aaa": {
+    "count": 1,
+    "tlds": [
+      "pro"
+    ]
+  },
+  "ab": {
+    "count": 1,
+    "tlds": [
+      "ca"
+    ]
+  },
+  "abc": {
+    "count": 1,
+    "tlds": [
+      "br"
+    ]
+  },
+  "abg": {
+    "count": 1,
+    "tlds": [
+      "ec"
+    ]
+  },
+  "abo": {
+    "count": 1,
+    "tlds": [
+      "pa"
+    ]
+  },
+  "aca": {
+    "count": 1,
+    "tlds": [
+      "pro"
+    ]
+  },
+  "academia": {
+    "count": 1,
+    "tlds": [
+      "bo"
+    ]
+  },
+  "accident-investigation": {
+    "count": 1,
+    "tlds": [
+      "aero"
+    ]
+  },
+  "accident-prevention": {
+    "count": 1,
+    "tlds": [
+      "aero"
+    ]
+  },
+  "acct": {
+    "count": 1,
+    "tlds": [
+      "pro"
+    ]
+  },
+  "adult": {
+    "count": 1,
+    "tlds": [
+      "ht"
+    ]
+  },
+  "aero": {
+    "count": 1,
+    "tlds": [
+      "mv"
+    ]
+  },
+  "aerobatic": {
+    "count": 1,
+    "tlds": [
+      "aero"
+    ]
+  },
+  "aeroclub": {
+    "count": 1,
+    "tlds": [
+      "aero"
+    ]
+  },
+  "aerodrome": {
+    "count": 1,
+    "tlds": [
+      "aero"
+    ]
+  },
+  "africa": {
+    "count": 1,
+    "tlds": [
+      "bj"
+    ]
+  },
+  "agents": {
+    "count": 1,
+    "tlds": [
+      "aero"
+    ]
+  },
+  "agr": {
+    "count": 1,
+    "tlds": [
+      "br"
+    ]
+  },
+  "agrar": {
+    "count": 1,
+    "tlds": [
+      "hu"
+    ]
+  },
+  "agri": {
+    "count": 1,
+    "tlds": [
+      "jo"
+    ]
+  },
+  "agric": {
+    "count": 1,
+    "tlds": [
+      "za"
+    ]
+  },
+  "agron": {
+    "count": 1,
+    "tlds": [
+      "ec"
+    ]
+  },
+  "ah": {
+    "count": 1,
+    "tlds": [
+      "cn"
+    ]
+  },
+  "aid": {
+    "count": 1,
+    "tlds": [
+      "pl"
+    ]
+  },
+  "aip": {
+    "count": 1,
+    "tlds": [
+      "ee"
+    ]
+  },
+  "air-surveillance": {
+    "count": 1,
+    "tlds": [
+      "aero"
+    ]
+  },
+  "air-traffic-control": {
+    "count": 1,
+    "tlds": [
+      "aero"
+    ]
+  },
+  "aircraft": {
+    "count": 1,
+    "tlds": [
+      "aero"
+    ]
+  },
+  "airline": {
+    "count": 1,
+    "tlds": [
+      "aero"
+    ]
+  },
+  "airport": {
+    "count": 1,
+    "tlds": [
+      "aero"
+    ]
+  },
+  "airtraffic": {
+    "count": 1,
+    "tlds": [
+      "aero"
+    ]
+  },
+  "aju": {
+    "count": 1,
+    "tlds": [
+      "br"
+    ]
+  },
+  "aland": {
+    "count": 1,
+    "tlds": [
+      "fi"
+    ]
+  },
+  "ambulance": {
+    "count": 1,
+    "tlds": [
+      "aero"
+    ]
+  },
+  "anani": {
+    "count": 1,
+    "tlds": [
+      "br"
+    ]
+  },
+  "angiang": {
+    "count": 1,
+    "tlds": [
+      "vn"
+    ]
+  },
+  "ann-arbor": {
+    "count": 1,
+    "tlds": [
+      "us"
+    ]
+  },
+  "aparecida": {
+    "count": 1,
+    "tlds": [
+      "br"
+    ]
+  },
+  "api": {
+    "count": 1,
+    "tlds": [
+      "br"
+    ]
+  },
+  "app": {
+    "count": 1,
+    "tlds": [
+      "br"
+    ]
+  },
+  "architectes": {
+    "count": 1,
+    "tlds": [
+      "bj"
+    ]
+  },
+  "arq": {
+    "count": 1,
+    "tlds": [
+      "br"
+    ]
+  },
+  "arqt": {
+    "count": 1,
+    "tlds": [
+      "ec"
+    ]
+  },
+  "arte": {
+    "count": 1,
+    "tlds": [
+      "bo"
+    ]
+  },
+  "ass": {
+    "count": 1,
+    "tlds": [
+      "km"
+    ]
+  },
+  "assn": {
+    "count": 1,
+    "tlds": [
+      "lk"
+    ]
+  },
+  "association": {
+    "count": 1,
+    "tlds": [
+      "aero"
+    ]
+  },
+  "assur": {
+    "count": 1,
+    "tlds": [
+      "bj"
+    ]
+  },
+  "atm": {
+    "count": 1,
+    "tlds": [
+      "pl"
+    ]
+  },
+  "ato": {
+    "count": 1,
+    "tlds": [
+      "br"
+    ]
+  },
+  "augustow": {
+    "count": 1,
+    "tlds": [
+      "pl"
+    ]
+  },
+  "author": {
+    "count": 1,
+    "tlds": [
+      "aero"
+    ]
+  },
+  "auto": {
+    "count": 1,
+    "tlds": [
+      "pl"
+    ]
+  },
+  "av": {
+    "count": 1,
+    "tlds": [
+      "tr"
+    ]
+  },
+  "avocat": {
+    "count": 1,
+    "tlds": [
+      "pro"
+    ]
+  },
+  "avocats": {
+    "count": 1,
+    "tlds": [
+      "bj"
+    ]
+  },
+  "avoues": {
+    "count": 1,
+    "tlds": [
+      "fr"
+    ]
+  },
+  "aéroport": {
+    "count": 1,
+    "tlds": [
+      "ci"
+    ]
+  },
+  "ba": {
+    "count": 1,
+    "tlds": [
+      "br"
+    ]
+  },
+  "babia-gora": {
+    "count": 1,
+    "tlds": [
+      "pl"
+    ]
+  },
+  "bacgiang": {
+    "count": 1,
+    "tlds": [
+      "vn"
+    ]
+  },
+  "backan": {
+    "count": 1,
+    "tlds": [
+      "vn"
+    ]
+  },
+  "baclieu": {
+    "count": 1,
+    "tlds": [
+      "vn"
+    ]
+  },
+  "bacninh": {
+    "count": 1,
+    "tlds": [
+      "vn"
+    ]
+  },
+  "ballooning": {
+    "count": 1,
+    "tlds": [
+      "aero"
+    ]
+  },
+  "bank": {
+    "count": 1,
+    "tlds": [
+      "in"
+    ]
+  },
+  "baria-vungtau": {
+    "count": 1,
+    "tlds": [
+      "vn"
+    ]
+  },
+  "barueri": {
+    "count": 1,
+    "tlds": [
+      "br"
+    ]
+  },
+  "bbs": {
+    "count": 1,
+    "tlds": [
+      "tr"
+    ]
+  },
+  "bc": {
+    "count": 1,
+    "tlds": [
+      "ca"
+    ]
+  },
+  "bd": {
+    "count": 1,
+    "tlds": [
+      "se"
+    ]
+  },
+  "bedzin": {
+    "count": 1,
+    "tlds": [
+      "pl"
+    ]
+  },
+  "bel": {
+    "count": 1,
+    "tlds": [
+      "tr"
+    ]
+  },
+  "belem": {
+    "count": 1,
+    "tlds": [
+      "br"
+    ]
+  },
+  "bentre": {
+    "count": 1,
+    "tlds": [
+      "vn"
+    ]
+  },
+  "beskidy": {
+    "count": 1,
+    "tlds": [
+      "pl"
+    ]
+  },
+  "bhz": {
+    "count": 1,
+    "tlds": [
+      "br"
+    ]
+  },
+  "bialowieza": {
+    "count": 1,
+    "tlds": [
+      "pl"
+    ]
+  },
+  "bialystok": {
+    "count": 1,
+    "tlds": [
+      "pl"
+    ]
+  },
+  "bielawa": {
+    "count": 1,
+    "tlds": [
+      "pl"
+    ]
+  },
+  "bieszczady": {
+    "count": 1,
+    "tlds": [
+      "pl"
+    ]
+  },
+  "bihar": {
+    "count": 1,
+    "tlds": [
+      "in"
+    ]
+  },
+  "binhdinh": {
+    "count": 1,
+    "tlds": [
+      "vn"
+    ]
+  },
+  "binhduong": {
+    "count": 1,
+    "tlds": [
+      "vn"
+    ]
+  },
+  "binhphuoc": {
+    "count": 1,
+    "tlds": [
+      "vn"
+    ]
+  },
+  "binhthuan": {
+    "count": 1,
+    "tlds": [
+      "vn"
+    ]
+  },
+  "bio": {
+    "count": 1,
+    "tlds": [
+      "br"
+    ]
+  },
+  "bj": {
+    "count": 1,
+    "tlds": [
+      "cn"
+    ]
+  },
+  "bmd": {
+    "count": 1,
+    "tlds": [
+      "br"
+    ]
+  },
+  "boavista": {
+    "count": 1,
+    "tlds": [
+      "br"
+    ]
+  },
+  "boleslawiec": {
+    "count": 1,
+    "tlds": [
+      "pl"
+    ]
+  },
+  "bolivia": {
+    "count": 1,
+    "tlds": [
+      "bo"
+    ]
+  },
+  "bolt": {
+    "count": 1,
+    "tlds": [
+      "hu"
+    ]
+  },
+  "brand": {
+    "count": 1,
+    "tlds": [
+      "se"
+    ]
+  },
+  "broker": {
+    "count": 1,
+    "tlds": [
+      "aero"
+    ]
+  },
+  "bsb": {
+    "count": 1,
+    "tlds": [
+      "br"
+    ]
+  },
+  "busan": {
+    "count": 1,
+    "tlds": [
+      "kr"
+    ]
+  },
+  "business": {
+    "count": 1,
+    "tlds": [
+      "in"
+    ]
+  },
+  "bydgoszcz": {
+    "count": 1,
+    "tlds": [
+      "pl"
+    ]
+  },
+  "bytom": {
+    "count": 1,
+    "tlds": [
+      "pl"
+    ]
+  },
+  "caa": {
+    "count": 1,
+    "tlds": [
+      "aero"
+    ]
+  },
+  "camau": {
+    "count": 1,
+    "tlds": [
+      "vn"
+    ]
+  },
+  "campinagrande": {
+    "count": 1,
+    "tlds": [
+      "br"
+    ]
+  },
+  "campinas": {
+    "count": 1,
+    "tlds": [
+      "br"
+    ]
+  },
+  "cantho": {
+    "count": 1,
+    "tlds": [
+      "vn"
+    ]
+  },
+  "caobang": {
+    "count": 1,
+    "tlds": [
+      "vn"
+    ]
+  },
+  "cargo": {
+    "count": 1,
+    "tlds": [
+      "aero"
+    ]
+  },
+  "casino": {
+    "count": 1,
+    "tlds": [
+      "hu"
+    ]
+  },
+  "catering": {
+    "count": 1,
+    "tlds": [
+      "aero"
+    ]
+  },
+  "catholic": {
+    "count": 1,
+    "tlds": [
+      "au"
+    ]
+  },
+  "caxias": {
+    "count": 1,
+    "tlds": [
+      "br"
+    ]
+  },
+  "cci": {
+    "count": 1,
+    "tlds": [
+      "fr"
+    ]
+  },
+  "ce": {
+    "count": 1,
+    "tlds": [
+      "br"
+    ]
+  },
+  "certification": {
+    "count": 1,
+    "tlds": [
+      "aero"
+    ]
+  },
+  "championship": {
+    "count": 1,
+    "tlds": [
+      "aero"
+    ]
+  },
+  "charter": {
+    "count": 1,
+    "tlds": [
+      "aero"
+    ]
+  },
+  "chef": {
+    "count": 1,
+    "tlds": [
+      "ec"
+    ]
+  },
+  "cherkassy": {
+    "count": 1,
+    "tlds": [
+      "ua"
+    ]
+  },
+  "cherkasy": {
+    "count": 1,
+    "tlds": [
+      "ua"
+    ]
+  },
+  "chernigov": {
+    "count": 1,
+    "tlds": [
+      "ua"
+    ]
+  },
+  "chernihiv": {
+    "count": 1,
+    "tlds": [
+      "ua"
+    ]
+  },
+  "chernivtsi": {
+    "count": 1,
+    "tlds": [
+      "ua"
+    ]
+  },
+  "chernovtsy": {
+    "count": 1,
+    "tlds": [
+      "ua"
+    ]
+  },
+  "chtr": {
+    "count": 1,
+    "tlds": [
+      "us"
+    ]
+  },
+  "chungbuk": {
+    "count": 1,
+    "tlds": [
+      "kr"
+    ]
+  },
+  "chungnam": {
+    "count": 1,
+    "tlds": [
+      "kr"
+    ]
+  },
+  "ciencia": {
+    "count": 1,
+    "tlds": [
+      "bo"
+    ]
+  },
+  "cieszyn": {
+    "count": 1,
+    "tlds": [
+      "pl"
+    ]
+  },
+  "cim": {
+    "count": 1,
+    "tlds": [
+      "br"
+    ]
+  },
+  "city": {
+    "count": 1,
+    "tlds": [
+      "hu"
+    ]
+  },
+  "civilaviation": {
+    "count": 1,
+    "tlds": [
+      "aero"
+    ]
+  },
+  "ck": {
+    "count": 1,
+    "tlds": [
+      "ua"
+    ]
+  },
+  "cng": {
+    "count": 1,
+    "tlds": [
+      "br"
+    ]
+  },
+  "cnt": {
+    "count": 1,
+    "tlds": [
+      "br"
+    ]
+  },
+  "cog": {
+    "count": 1,
+    "tlds": [
+      "us"
+    ]
+  },
+  "commune": {
+    "count": 1,
+    "tlds": [
+      "am"
+    ]
+  },
+  "conference": {
+    "count": 1,
+    "tlds": [
+      "aero"
+    ]
+  },
+  "consulado": {
+    "count": 1,
+    "tlds": [
+      "st"
+    ]
+  },
+  "consultant": {
+    "count": 1,
+    "tlds": [
+      "aero"
+    ]
+  },
+  "consulting": {
+    "count": 1,
+    "tlds": [
+      "aero"
+    ]
+  },
+  "cont": {
+    "count": 1,
+    "tlds": [
+      "ec"
+    ]
+  },
+  "contagem": {
+    "count": 1,
+    "tlds": [
+      "br"
+    ]
+  },
+  "control": {
+    "count": 1,
+    "tlds": [
+      "aero"
+    ]
+  },
+  "cooperativa": {
+    "count": 1,
+    "tlds": [
+      "bo"
+    ]
+  },
+  "council": {
+    "count": 1,
+    "tlds": [
+      "aero"
+    ]
+  },
+  "coz": {
+    "count": 1,
+    "tlds": [
+      "br"
+    ]
+  },
+  "cq": {
+    "count": 1,
+    "tlds": [
+      "cn"
+    ]
+  },
+  "cr": {
+    "count": 1,
+    "tlds": [
+      "ua"
+    ]
+  },
+  "crew": {
+    "count": 1,
+    "tlds": [
+      "aero"
+    ]
+  },
+  "crimea": {
+    "count": 1,
+    "tlds": [
+      "ua"
+    ]
+  },
+  "cs": {
+    "count": 1,
+    "tlds": [
+      "in"
+    ]
+  },
+  "cue": {
+    "count": 1,
+    "tlds": [
+      "ec"
+    ]
+  },
+  "cuiaba": {
+    "count": 1,
+    "tlds": [
+      "br"
+    ]
+  },
+  "curitiba": {
+    "count": 1,
+    "tlds": [
+      "br"
+    ]
+  },
+  "cv": {
+    "count": 1,
+    "tlds": [
+      "ua"
+    ]
+  },
+  "czeladz": {
+    "count": 1,
+    "tlds": [
+      "pl"
+    ]
+  },
+  "czest": {
+    "count": 1,
+    "tlds": [
+      "pl"
+    ]
+  },
+  "daegu": {
+    "count": 1,
+    "tlds": [
+      "kr"
+    ]
+  },
+  "daejeon": {
+    "count": 1,
+    "tlds": [
+      "kr"
+    ]
+  },
+  "daklak": {
+    "count": 1,
+    "tlds": [
+      "vn"
+    ]
+  },
+  "daknong": {
+    "count": 1,
+    "tlds": [
+      "vn"
+    ]
+  },
+  "danang": {
+    "count": 1,
+    "tlds": [
+      "vn"
+    ]
+  },
+  "def": {
+    "count": 1,
+    "tlds": [
+      "br"
+    ]
+  },
+  "delhi": {
+    "count": 1,
+    "tlds": [
+      "in"
+    ]
+  },
+  "democracia": {
+    "count": 1,
+    "tlds": [
+      "bo"
+    ]
+  },
+  "dent": {
+    "count": 1,
+    "tlds": [
+      "ec"
+    ]
+  },
+  "deporte": {
+    "count": 1,
+    "tlds": [
+      "bo"
+    ]
+  },
+  "des": {
+    "count": 1,
+    "tlds": [
+      "br"
+    ]
+  },
+  "desa": {
+    "count": 1,
+    "tlds": [
+      "id"
+    ]
+  },
+  "design": {
+    "count": 1,
+    "tlds": [
+      "aero"
+    ]
+  },
+  "det": {
+    "count": 1,
+    "tlds": [
+      "br"
+    ]
+  },
+  "dev": {
+    "count": 1,
+    "tlds": [
+      "br"
+    ]
+  },
+  "df": {
+    "count": 1,
+    "tlds": [
+      "br"
+    ]
+  },
+  "dgca": {
+    "count": 1,
+    "tlds": [
+      "aero"
+    ]
+  },
+  "dgn": {
+    "count": 1,
+    "tlds": [
+      "ec"
+    ]
+  },
+  "dienbien": {
+    "count": 1,
+    "tlds": [
+      "vn"
+    ]
+  },
+  "disco": {
+    "count": 1,
+    "tlds": [
+      "ec"
+    ]
+  },
+  "dlugoleka": {
+    "count": 1,
+    "tlds": [
+      "pl"
+    ]
+  },
+  "dn": {
+    "count": 1,
+    "tlds": [
+      "ua"
+    ]
+  },
+  "dnepropetrovsk": {
+    "count": 1,
+    "tlds": [
+      "ua"
+    ]
+  },
+  "dni": {
+    "count": 1,
+    "tlds": [
+      "us"
+    ]
+  },
+  "dnipropetrovsk": {
+    "count": 1,
+    "tlds": [
+      "ua"
+    ]
+  },
+  "doc": {
+    "count": 1,
+    "tlds": [
+      "ec"
+    ]
+  },
+  "donetsk": {
+    "count": 1,
+    "tlds": [
+      "ua"
+    ]
+  },
+  "dongnai": {
+    "count": 1,
+    "tlds": [
+      "vn"
+    ]
+  },
+  "dongthap": {
+    "count": 1,
+    "tlds": [
+      "vn"
+    ]
+  },
+  "dp": {
+    "count": 1,
+    "tlds": [
+      "ua"
+    ]
+  },
+  "dst": {
+    "count": 1,
+    "tlds": [
+      "us"
+    ]
+  },
+  "e12": {
+    "count": 1,
+    "tlds": [
+      "ve"
+    ]
+  },
+  "e164": {
+    "count": 1,
+    "tlds": [
+      "arpa"
+    ]
+  },
+  "eaton": {
+    "count": 1,
+    "tlds": [
+      "us"
+    ]
+  },
+  "ebiz": {
+    "count": 1,
+    "tlds": [
+      "tw"
+    ]
+  },
+  "ecn": {
+    "count": 1,
+    "tlds": [
+      "br"
+    ]
+  },
+  "ecologia": {
+    "count": 1,
+    "tlds": [
+      "bo"
+    ]
+  },
+  "econo": {
+    "count": 1,
+    "tlds": [
+      "bj"
+    ]
+  },
+  "economia": {
+    "count": 1,
+    "tlds": [
+      "bo"
+    ]
+  },
+  "educator": {
+    "count": 1,
+    "tlds": [
+      "aero"
+    ]
+  },
+  "ekloges": {
+    "count": 1,
+    "tlds": [
+      "cy"
+    ]
+  },
+  "elblag": {
+    "count": 1,
+    "tlds": [
+      "pl"
+    ]
+  },
+  "elk": {
+    "count": 1,
+    "tlds": [
+      "pl"
+    ]
+  },
+  "emb": {
+    "count": 1,
+    "tlds": [
+      "kw"
+    ]
+  },
+  "embaixada": {
+    "count": 1,
+    "tlds": [
+      "st"
+    ]
+  },
+  "emergency": {
+    "count": 1,
+    "tlds": [
+      "aero"
+    ]
+  },
+  "emp": {
+    "count": 1,
+    "tlds": [
+      "br"
+    ]
+  },
+  "emprende": {
+    "count": 1,
+    "tlds": [
+      "ve"
+    ]
+  },
+  "empresa": {
+    "count": 1,
+    "tlds": [
+      "bo"
+    ]
+  },
+  "enf": {
+    "count": 1,
+    "tlds": [
+      "br"
+    ]
+  },
+  "engine": {
+    "count": 1,
+    "tlds": [
+      "aero"
+    ]
+  },
+  "engineer": {
+    "count": 1,
+    "tlds": [
+      "aero"
+    ]
+  },
+  "ens": {
+    "count": 1,
+    "tlds": [
+      "tn"
+    ]
+  },
+  "entertainment": {
+    "count": 1,
+    "tlds": [
+      "aero"
+    ]
+  },
+  "equipment": {
+    "count": 1,
+    "tlds": [
+      "aero"
+    ]
+  },
+  "er": {
+    "count": 1,
+    "tlds": [
+      "in"
+    ]
+  },
+  "erotica": {
+    "count": 1,
+    "tlds": [
+      "hu"
+    ]
+  },
+  "erotika": {
+    "count": 1,
+    "tlds": [
+      "hu"
+    ]
+  },
+  "esm": {
+    "count": 1,
+    "tlds": [
+      "ec"
+    ]
+  },
+  "esp": {
+    "count": 1,
+    "tlds": [
+      "br"
+    ]
+  },
+  "est": {
+    "count": 1,
+    "tlds": [
+      "pr"
+    ]
+  },
+  "etc": {
+    "count": 1,
+    "tlds": [
+      "br"
+    ]
+  },
+  "eti": {
+    "count": 1,
+    "tlds": [
+      "br"
+    ]
+  },
+  "eu": {
+    "count": 1,
+    "tlds": [
+      "int"
+    ]
+  },
+  "eun": {
+    "count": 1,
+    "tlds": [
+      "eg"
+    ]
+  },
+  "exchange": {
+    "count": 1,
+    "tlds": [
+      "aero"
+    ]
+  },
+  "express": {
+    "count": 1,
+    "tlds": [
+      "aero"
+    ]
+  },
+  "fam": {
+    "count": 1,
+    "tlds": [
+      "pk"
+    ]
+  },
+  "far": {
+    "count": 1,
+    "tlds": [
+      "br"
+    ]
+  },
+  "federation": {
+    "count": 1,
+    "tlds": [
+      "aero"
+    ]
+  },
+  "feira": {
+    "count": 1,
+    "tlds": [
+      "br"
+    ]
+  },
+  "fh": {
+    "count": 1,
+    "tlds": [
+      "se"
+    ]
+  },
+  "fhsk": {
+    "count": 1,
+    "tlds": [
+      "se"
+    ]
+  },
+  "fhv": {
+    "count": 1,
+    "tlds": [
+      "se"
+    ]
+  },
+  "fi": {
+    "count": 1,
+    "tlds": [
+      "cr"
+    ]
+  },
+  "fie": {
+    "count": 1,
+    "tlds": [
+      "ee"
+    ]
+  },
+  "film": {
+    "count": 1,
+    "tlds": [
+      "hu"
+    ]
+  },
+  "fj": {
+    "count": 1,
+    "tlds": [
+      "cn"
+    ]
+  },
+  "flight": {
+    "count": 1,
+    "tlds": [
+      "aero"
+    ]
+  },
+  "flog": {
+    "count": 1,
+    "tlds": [
+      "br"
+    ]
+  },
+  "floripa": {
+    "count": 1,
+    "tlds": [
+      "br"
+    ]
+  },
+  "fnd": {
+    "count": 1,
+    "tlds": [
+      "br"
+    ]
+  },
+  "fortal": {
+    "count": 1,
+    "tlds": [
+      "br"
+    ]
+  },
+  "forum": {
+    "count": 1,
+    "tlds": [
+      "hu"
+    ]
+  },
+  "foz": {
+    "count": 1,
+    "tlds": [
+      "br"
+    ]
+  },
+  "freight": {
+    "count": 1,
+    "tlds": [
+      "aero"
+    ]
+  },
+  "from": {
+    "count": 1,
+    "tlds": [
+      "hr"
+    ]
+  },
+  "fst": {
+    "count": 1,
+    "tlds": [
+      "br"
+    ]
+  },
+  "fuel": {
+    "count": 1,
+    "tlds": [
+      "aero"
+    ]
+  },
+  "g12": {
+    "count": 1,
+    "tlds": [
+      "br"
+    ]
+  },
+  "gal": {
+    "count": 1,
+    "tlds": [
+      "ec"
+    ]
+  },
+  "game": {
+    "count": 1,
+    "tlds": [
+      "tw"
+    ]
+  },
+  "games": {
+    "count": 1,
+    "tlds": [
+      "hu"
+    ]
+  },
+  "gangwon": {
+    "count": 1,
+    "tlds": [
+      "kr"
+    ]
+  },
+  "gc": {
+    "count": 1,
+    "tlds": [
+      "ca"
+    ]
+  },
+  "gd": {
+    "count": 1,
+    "tlds": [
+      "cn"
+    ]
+  },
+  "geek": {
+    "count": 1,
+    "tlds": [
+      "nz"
+    ]
+  },
+  "geo": {
+    "count": 1,
+    "tlds": [
+      "br"
+    ]
+  },
+  "ggf": {
+    "count": 1,
+    "tlds": [
+      "br"
+    ]
+  },
+  "gialai": {
+    "count": 1,
+    "tlds": [
+      "vn"
+    ]
+  },
+  "gkp": {
+    "count": 1,
+    "tlds": [
+      "pk"
+    ]
+  },
+  "gliding": {
+    "count": 1,
+    "tlds": [
+      "aero"
+    ]
+  },
+  "glogow": {
+    "count": 1,
+    "tlds": [
+      "pl"
+    ]
+  },
+  "gmina": {
+    "count": 1,
+    "tlds": [
+      "pl"
+    ]
+  },
+  "gniezno": {
+    "count": 1,
+    "tlds": [
+      "pl"
+    ]
+  },
+  "gog": {
+    "count": 1,
+    "tlds": [
+      "pk"
+    ]
+  },
+  "goiania": {
+    "count": 1,
+    "tlds": [
+      "br"
+    ]
+  },
+  "gok": {
+    "count": 1,
+    "tlds": [
+      "pk"
+    ]
+  },
+  "gop": {
+    "count": 1,
+    "tlds": [
+      "pk"
+    ]
+  },
+  "gorlice": {
+    "count": 1,
+    "tlds": [
+      "pl"
+    ]
+  },
+  "gos": {
+    "count": 1,
+    "tlds": [
+      "pk"
+    ]
+  },
+  "government": {
+    "count": 1,
+    "tlds": [
+      "aero"
+    ]
+  },
+  "govt": {
+    "count": 1,
+    "tlds": [
+      "nz"
+    ]
+  },
+  "grajewo": {
+    "count": 1,
+    "tlds": [
+      "pl"
+    ]
+  },
+  "greta": {
+    "count": 1,
+    "tlds": [
+      "fr"
+    ]
+  },
+  "griw": {
+    "count": 1,
+    "tlds": [
+      "pl"
+    ]
+  },
+  "grondar": {
+    "count": 1,
+    "tlds": [
+      "za"
+    ]
+  },
+  "groundhandling": {
+    "count": 1,
+    "tlds": [
+      "aero"
+    ]
+  },
+  "group": {
+    "count": 1,
+    "tlds": [
+      "aero"
+    ]
+  },
+  "grp": {
+    "count": 1,
+    "tlds": [
+      "lk"
+    ]
+  },
+  "gru": {
+    "count": 1,
+    "tlds": [
+      "br"
+    ]
+  },
+  "gs": {
+    "count": 1,
+    "tlds": [
+      "cn"
+    ]
+  },
+  "gsm": {
+    "count": 1,
+    "tlds": [
+      "pl"
+    ]
+  },
+  "guam": {
+    "count": 1,
+    "tlds": [
+      "gu"
+    ]
+  },
+  "gub": {
+    "count": 1,
+    "tlds": [
+      "uy"
+    ]
+  },
+  "gujarat": {
+    "count": 1,
+    "tlds": [
+      "in"
+    ]
+  },
+  "gwangju": {
+    "count": 1,
+    "tlds": [
+      "kr"
+    ]
+  },
+  "gx": {
+    "count": 1,
+    "tlds": [
+      "cn"
+    ]
+  },
+  "gye": {
+    "count": 1,
+    "tlds": [
+      "ec"
+    ]
+  },
+  "gyeongbuk": {
+    "count": 1,
+    "tlds": [
+      "kr"
+    ]
+  },
+  "gyeonggi": {
+    "count": 1,
+    "tlds": [
+      "kr"
+    ]
+  },
+  "gyeongnam": {
+    "count": 1,
+    "tlds": [
+      "kr"
+    ]
+  },
+  "gz": {
+    "count": 1,
+    "tlds": [
+      "cn"
+    ]
+  },
+  "ha": {
+    "count": 1,
+    "tlds": [
+      "cn"
+    ]
+  },
+  "hagiang": {
+    "count": 1,
+    "tlds": [
+      "vn"
+    ]
+  },
+  "haiduong": {
+    "count": 1,
+    "tlds": [
+      "vn"
+    ]
+  },
+  "haiphong": {
+    "count": 1,
+    "tlds": [
+      "vn"
+    ]
+  },
+  "hanam": {
+    "count": 1,
+    "tlds": [
+      "vn"
+    ]
+  },
+  "hanggliding": {
+    "count": 1,
+    "tlds": [
+      "aero"
+    ]
+  },
+  "hanoi": {
+    "count": 1,
+    "tlds": [
+      "vn"
+    ]
+  },
+  "hatinh": {
+    "count": 1,
+    "tlds": [
+      "vn"
+    ]
+  },
+  "haugiang": {
+    "count": 1,
+    "tlds": [
+      "vn"
+    ]
+  },
+  "hb": {
+    "count": 1,
+    "tlds": [
+      "cn"
+    ]
+  },
+  "he": {
+    "count": 1,
+    "tlds": [
+      "cn"
+    ]
+  },
+  "hk": {
+    "count": 1,
+    "tlds": [
+      "cn"
+    ]
+  },
+  "hl": {
+    "count": 1,
+    "tlds": [
+      "cn"
+    ]
+  },
+  "hn": {
+    "count": 1,
+    "tlds": [
+      "cn"
+    ]
+  },
+  "hoabinh": {
+    "count": 1,
+    "tlds": [
+      "vn"
+    ]
+  },
+  "home": {
+    "count": 1,
+    "tlds": [
+      "arpa"
+    ]
+  },
+  "homebuilt": {
+    "count": 1,
+    "tlds": [
+      "aero"
+    ]
+  },
+  "hs": {
+    "count": 1,
+    "tlds": [
+      "kr"
+    ]
+  },
+  "huissier-justice": {
+    "count": 1,
+    "tlds": [
+      "fr"
+    ]
+  },
+  "hungyen": {
+    "count": 1,
+    "tlds": [
+      "vn"
+    ]
+  },
+  "ibr": {
+    "count": 1,
+    "tlds": [
+      "ec"
+    ]
+  },
+  "ic": {
+    "count": 1,
+    "tlds": [
+      "pl"
+    ]
+  },
+  "idf": {
+    "count": 1,
+    "tlds": [
+      "il"
+    ]
+  },
+  "if": {
+    "count": 1,
+    "tlds": [
+      "ua"
+    ]
+  },
+  "ilawa": {
+    "count": 1,
+    "tlds": [
+      "pl"
+    ]
+  },
+  "imb": {
+    "count": 1,
+    "tlds": [
+      "br"
+    ]
+  },
+  "in-addr": {
+    "count": 1,
+    "tlds": [
+      "arpa"
+    ]
+  },
+  "incheon": {
+    "count": 1,
+    "tlds": [
+      "kr"
+    ]
+  },
+  "indigena": {
+    "count": 1,
+    "tlds": [
+      "bo"
+    ]
+  },
+  "industria": {
+    "count": 1,
+    "tlds": [
+      "bo"
+    ]
+  },
+  "ing": {
+    "count": 1,
+    "tlds": [
+      "pa"
+    ]
+  },
+  "ingatlan": {
+    "count": 1,
+    "tlds": [
+      "hu"
+    ]
+  },
+  "inst": {
+    "count": 1,
+    "tlds": [
+      "ml"
+    ]
+  },
+  "insurance": {
+    "count": 1,
+    "tlds": [
+      "aero"
+    ]
+  },
+  "internet": {
+    "count": 1,
+    "tlds": [
+      "in"
+    ]
+  },
+  "intl": {
+    "count": 1,
+    "tlds": [
+      "tn"
+    ]
+  },
+  "ip6": {
+    "count": 1,
+    "tlds": [
+      "arpa"
+    ]
+  },
+  "iris": {
+    "count": 1,
+    "tlds": [
+      "arpa"
+    ]
+  },
+  "is": {
+    "count": 1,
+    "tlds": [
+      "pl"
+    ]
+  },
+  "isa": {
+    "count": 1,
+    "tlds": [
+      "us"
+    ]
+  },
+  "isla": {
+    "count": 1,
+    "tlds": [
+      "pr"
+    ]
+  },
+  "its": {
+    "count": 1,
+    "tlds": [
+      "me"
+    ]
+  },
+  "ivano-frankivsk": {
+    "count": 1,
+    "tlds": [
+      "ua"
+    ]
+  },
+  "iwi": {
+    "count": 1,
+    "tlds": [
+      "nz"
+    ]
+  },
+  "iz": {
+    "count": 1,
+    "tlds": [
+      "hr"
+    ]
+  },
+  "j": {
+    "count": 1,
+    "tlds": [
+      "bg"
+    ]
+  },
+  "jab": {
+    "count": 1,
+    "tlds": [
+      "br"
+    ]
+  },
+  "jampa": {
+    "count": 1,
+    "tlds": [
+      "br"
+    ]
+  },
+  "jaworzno": {
+    "count": 1,
+    "tlds": [
+      "pl"
+    ]
+  },
+  "jdf": {
+    "count": 1,
+    "tlds": [
+      "br"
+    ]
+  },
+  "jeju": {
+    "count": 1,
+    "tlds": [
+      "kr"
+    ]
+  },
+  "jelenia-gora": {
+    "count": 1,
+    "tlds": [
+      "pl"
+    ]
+  },
+  "jeonbuk": {
+    "count": 1,
+    "tlds": [
+      "kr"
+    ]
+  },
+  "jeonnam": {
+    "count": 1,
+    "tlds": [
+      "kr"
+    ]
+  },
+  "jgora": {
+    "count": 1,
+    "tlds": [
+      "pl"
+    ]
+  },
+  "jl": {
+    "count": 1,
+    "tlds": [
+      "cn"
+    ]
+  },
+  "jogasz": {
+    "count": 1,
+    "tlds": [
+      "hu"
+    ]
+  },
+  "joinville": {
+    "count": 1,
+    "tlds": [
+      "br"
+    ]
+  },
+  "jor": {
+    "count": 1,
+    "tlds": [
+      "br"
+    ]
+  },
+  "journal": {
+    "count": 1,
+    "tlds": [
+      "aero"
+    ]
+  },
+  "journalist": {
+    "count": 1,
+    "tlds": [
+      "aero"
+    ]
+  },
+  "js": {
+    "count": 1,
+    "tlds": [
+      "cn"
+    ]
+  },
+  "jur": {
+    "count": 1,
+    "tlds": [
+      "pro"
+    ]
+  },
+  "jus": {
+    "count": 1,
+    "tlds": [
+      "br"
+    ]
+  },
+  "jx": {
+    "count": 1,
+    "tlds": [
+      "cn"
+    ]
+  },
+  "kalisz": {
+    "count": 1,
+    "tlds": [
+      "pl"
+    ]
+  },
+  "karpacz": {
+    "count": 1,
+    "tlds": [
+      "pl"
+    ]
+  },
+  "kartuzy": {
+    "count": 1,
+    "tlds": [
+      "pl"
+    ]
+  },
+  "kaszuby": {
+    "count": 1,
+    "tlds": [
+      "pl"
+    ]
+  },
+  "katowice": {
+    "count": 1,
+    "tlds": [
+      "pl"
+    ]
+  },
+  "kazimierz-dolny": {
+    "count": 1,
+    "tlds": [
+      "pl"
+    ]
+  },
+  "kep": {
+    "count": 1,
+    "tlds": [
+      "tr"
+    ]
+  },
+  "kepno": {
+    "count": 1,
+    "tlds": [
+      "pl"
+    ]
+  },
+  "ketrzyn": {
+    "count": 1,
+    "tlds": [
+      "pl"
+    ]
+  },
+  "kg": {
+    "count": 1,
+    "tlds": [
+      "kr"
+    ]
+  },
+  "kh": {
+    "count": 1,
+    "tlds": [
+      "ua"
+    ]
+  },
+  "khanhhoa": {
+    "count": 1,
+    "tlds": [
+      "vn"
+    ]
+  },
+  "kharkiv": {
+    "count": 1,
+    "tlds": [
+      "ua"
+    ]
+  },
+  "kharkov": {
+    "count": 1,
+    "tlds": [
+      "ua"
+    ]
+  },
+  "kherson": {
+    "count": 1,
+    "tlds": [
+      "ua"
+    ]
+  },
+  "khmelnitskiy": {
+    "count": 1,
+    "tlds": [
+      "ua"
+    ]
+  },
+  "khmelnytskyi": {
+    "count": 1,
+    "tlds": [
+      "ua"
+    ]
+  },
+  "kiengiang": {
+    "count": 1,
+    "tlds": [
+      "vn"
+    ]
+  },
+  "kiev": {
+    "count": 1,
+    "tlds": [
+      "ua"
+    ]
+  },
+  "kirovograd": {
+    "count": 1,
+    "tlds": [
+      "ua"
+    ]
+  },
+  "kiwi": {
+    "count": 1,
+    "tlds": [
+      "nz"
+    ]
+  },
+  "klodzko": {
+    "count": 1,
+    "tlds": [
+      "pl"
+    ]
+  },
+  "km": {
+    "count": 1,
+    "tlds": [
+      "ua"
+    ]
+  },
+  "kmpsp": {
+    "count": 1,
+    "tlds": [
+      "pl"
+    ]
+  },
+  "kobierzyce": {
+    "count": 1,
+    "tlds": [
+      "pl"
+    ]
+  },
+  "kolobrzeg": {
+    "count": 1,
+    "tlds": [
+      "pl"
+    ]
+  },
+  "komforb": {
+    "count": 1,
+    "tlds": [
+      "se"
+    ]
+  },
+  "kommunalforbund": {
+    "count": 1,
+    "tlds": [
+      "se"
+    ]
+  },
+  "komvux": {
+    "count": 1,
+    "tlds": [
+      "se"
+    ]
+  },
+  "konin": {
+    "count": 1,
+    "tlds": [
+      "pl"
+    ]
+  },
+  "konskowola": {
+    "count": 1,
+    "tlds": [
+      "pl"
+    ]
+  },
+  "konsulat": {
+    "count": 1,
+    "tlds": [
+      "pl"
+    ]
+  },
+  "kontum": {
+    "count": 1,
+    "tlds": [
+      "vn"
+    ]
+  },
+  "konyvelo": {
+    "count": 1,
+    "tlds": [
+      "hu"
+    ]
+  },
+  "kop": {
+    "count": 1,
+    "tlds": [
+      "id"
+    ]
+  },
+  "kppsp": {
+    "count": 1,
+    "tlds": [
+      "pl"
+    ]
+  },
+  "kr": {
+    "count": 1,
+    "tlds": [
+      "ua"
+    ]
+  },
+  "kropyvnytskyi": {
+    "count": 1,
+    "tlds": [
+      "ua"
+    ]
+  },
+  "krym": {
+    "count": 1,
+    "tlds": [
+      "ua"
+    ]
+  },
+  "kutno": {
+    "count": 1,
+    "tlds": [
+      "pl"
+    ]
+  },
+  "kv": {
+    "count": 1,
+    "tlds": [
+      "ua"
+    ]
+  },
+  "kwp": {
+    "count": 1,
+    "tlds": [
+      "pl"
+    ]
+  },
+  "kwpsp": {
+    "count": 1,
+    "tlds": [
+      "pl"
+    ]
+  },
+  "kyiv": {
+    "count": 1,
+    "tlds": [
+      "ua"
+    ]
+  },
+  "laichau": {
+    "count": 1,
+    "tlds": [
+      "vn"
+    ]
+  },
+  "lakas": {
+    "count": 1,
+    "tlds": [
+      "hu"
+    ]
+  },
+  "lamdong": {
+    "count": 1,
+    "tlds": [
+      "vn"
+    ]
+  },
+  "lanbib": {
+    "count": 1,
+    "tlds": [
+      "se"
+    ]
+  },
+  "langson": {
+    "count": 1,
+    "tlds": [
+      "vn"
+    ]
+  },
+  "laocai": {
+    "count": 1,
+    "tlds": [
+      "vn"
+    ]
+  },
+  "lapy": {
+    "count": 1,
+    "tlds": [
+      "pl"
+    ]
+  },
+  "lat": {
+    "count": 1,
+    "tlds": [
+      "ec"
+    ]
+  },
+  "leasing": {
+    "count": 1,
+    "tlds": [
+      "aero"
+    ]
+  },
+  "lebork": {
+    "count": 1,
+    "tlds": [
+      "pl"
+    ]
+  },
+  "leg": {
+    "count": 1,
+    "tlds": [
+      "br"
+    ]
+  },
+  "legnica": {
+    "count": 1,
+    "tlds": [
+      "pl"
+    ]
+  },
+  "leilao": {
+    "count": 1,
+    "tlds": [
+      "br"
+    ]
+  },
+  "lel": {
+    "count": 1,
+    "tlds": [
+      "br"
+    ]
+  },
+  "lezajsk": {
+    "count": 1,
+    "tlds": [
+      "pl"
+    ]
+  },
+  "lg": {
+    "count": 1,
+    "tlds": [
+      "ua"
+    ]
+  },
+  "limanowa": {
+    "count": 1,
+    "tlds": [
+      "pl"
+    ]
+  },
+  "ln": {
+    "count": 1,
+    "tlds": [
+      "cn"
+    ]
+  },
+  "log": {
+    "count": 1,
+    "tlds": [
+      "br"
+    ]
+  },
+  "logistics": {
+    "count": 1,
+    "tlds": [
+      "aero"
+    ]
+  },
+  "loisirs": {
+    "count": 1,
+    "tlds": [
+      "bj"
+    ]
+  },
+  "loj": {
+    "count": 1,
+    "tlds": [
+      "ec"
+    ]
+  },
+  "lomza": {
+    "count": 1,
+    "tlds": [
+      "pl"
+    ]
+  },
+  "londrina": {
+    "count": 1,
+    "tlds": [
+      "br"
+    ]
+  },
+  "longan": {
+    "count": 1,
+    "tlds": [
+      "vn"
+    ]
+  },
+  "lowicz": {
+    "count": 1,
+    "tlds": [
+      "pl"
+    ]
+  },
+  "lt": {
+    "count": 1,
+    "tlds": [
+      "ua"
+    ]
+  },
+  "lubin": {
+    "count": 1,
+    "tlds": [
+      "pl"
+    ]
+  },
+  "lugansk": {
+    "count": 1,
+    "tlds": [
+      "ua"
+    ]
+  },
+  "luhansk": {
+    "count": 1,
+    "tlds": [
+      "ua"
+    ]
+  },
+  "lukow": {
+    "count": 1,
+    "tlds": [
+      "pl"
+    ]
+  },
+  "lutsk": {
+    "count": 1,
+    "tlds": [
+      "ua"
+    ]
+  },
+  "lv": {
+    "count": 1,
+    "tlds": [
+      "ua"
+    ]
+  },
+  "lviv": {
+    "count": 1,
+    "tlds": [
+      "ua"
+    ]
+  },
+  "macapa": {
+    "count": 1,
+    "tlds": [
+      "br"
+    ]
+  },
+  "maceio": {
+    "count": 1,
+    "tlds": [
+      "br"
+    ]
+  },
+  "magazine": {
+    "count": 1,
+    "tlds": [
+      "aero"
+    ]
+  },
+  "mail": {
+    "count": 1,
+    "tlds": [
+      "pl"
+    ]
+  },
+  "maintenance": {
+    "count": 1,
+    "tlds": [
+      "aero"
+    ]
+  },
+  "malbork": {
+    "count": 1,
+    "tlds": [
+      "pl"
+    ]
+  },
+  "malopolska": {
+    "count": 1,
+    "tlds": [
+      "pl"
+    ]
+  },
+  "manaus": {
+    "count": 1,
+    "tlds": [
+      "br"
+    ]
+  },
+  "maori": {
+    "count": 1,
+    "tlds": [
+      "nz"
+    ]
+  },
+  "maringa": {
+    "count": 1,
+    "tlds": [
+      "br"
+    ]
+  },
+  "marketplace": {
+    "count": 1,
+    "tlds": [
+      "aero"
+    ]
+  },
+  "mat": {
+    "count": 1,
+    "tlds": [
+      "br"
+    ]
+  },
+  "mazowsze": {
+    "count": 1,
+    "tlds": [
+      "pl"
+    ]
+  },
+  "mazury": {
+    "count": 1,
+    "tlds": [
+      "pl"
+    ]
+  },
+  "mb": {
+    "count": 1,
+    "tlds": [
+      "ca"
+    ]
+  },
+  "medecin": {
+    "count": 1,
+    "tlds": [
+      "km"
+    ]
+  },
+  "medicina": {
+    "count": 1,
+    "tlds": [
+      "bo"
+    ]
+  },
+  "mg": {
+    "count": 1,
+    "tlds": [
+      "br"
+    ]
+  },
+  "miasta": {
+    "count": 1,
+    "tlds": [
+      "pl"
+    ]
+  },
+  "microlight": {
+    "count": 1,
+    "tlds": [
+      "aero"
+    ]
+  },
+  "mielec": {
+    "count": 1,
+    "tlds": [
+      "pl"
+    ]
+  },
+  "mielno": {
+    "count": 1,
+    "tlds": [
+      "pl"
+    ]
+  },
+  "mincom": {
+    "count": 1,
+    "tlds": [
+      "tn"
+    ]
+  },
+  "mk": {
+    "count": 1,
+    "tlds": [
+      "ua"
+    ]
+  },
+  "mktg": {
+    "count": 1,
+    "tlds": [
+      "ec"
+    ]
+  },
+  "mod": {
+    "count": 1,
+    "tlds": [
+      "gi"
+    ]
+  },
+  "modelling": {
+    "count": 1,
+    "tlds": [
+      "aero"
+    ]
+  },
+  "mon": {
+    "count": 1,
+    "tlds": [
+      "ec"
+    ]
+  },
+  "money": {
+    "count": 1,
+    "tlds": [
+      "bj"
+    ]
+  },
+  "morena": {
+    "count": 1,
+    "tlds": [
+      "br"
+    ]
+  },
+  "movimiento": {
+    "count": 1,
+    "tlds": [
+      "bo"
+    ]
+  },
+  "mp": {
+    "count": 1,
+    "tlds": [
+      "br"
+    ]
+  },
+  "mragowo": {
+    "count": 1,
+    "tlds": [
+      "pl"
+    ]
+  },
+  "muni": {
+    "count": 1,
+    "tlds": [
+      "il"
+    ]
+  },
+  "mup": {
+    "count": 1,
+    "tlds": [
+      "pl"
+    ]
+  },
+  "mutual": {
+    "count": 1,
+    "tlds": [
+      "ar"
+    ]
+  },
+  "mw": {
+    "count": 1,
+    "tlds": [
+      "pl"
+    ]
+  },
+  "my": {
+    "count": 1,
+    "tlds": [
+      "id"
+    ]
+  },
+  "mykolaiv": {
+    "count": 1,
+    "tlds": [
+      "ua"
+    ]
+  },
+  "māori": {
+    "count": 1,
+    "tlds": [
+      "nz"
+    ]
+  },
+  "naklo": {
+    "count": 1,
+    "tlds": [
+      "pl"
+    ]
+  },
+  "namdinh": {
+    "count": 1,
+    "tlds": [
+      "vn"
+    ]
+  },
+  "natal": {
+    "count": 1,
+    "tlds": [
+      "br"
+    ]
+  },
+  "natural": {
+    "count": 1,
+    "tlds": [
+      "bo"
+    ]
+  },
+  "naturbruksgymn": {
+    "count": 1,
+    "tlds": [
+      "se"
+    ]
+  },
+  "navigation": {
+    "count": 1,
+    "tlds": [
+      "aero"
+    ]
+  },
+  "nb": {
+    "count": 1,
+    "tlds": [
+      "ca"
+    ]
+  },
+  "news": {
+    "count": 1,
+    "tlds": [
+      "hu"
+    ]
+  },
+  "nf": {
+    "count": 1,
+    "tlds": [
+      "ca"
+    ]
+  },
+  "nghean": {
+    "count": 1,
+    "tlds": [
+      "vn"
+    ]
+  },
+  "nhs": {
+    "count": 1,
+    "tlds": [
+      "uk"
+    ]
+  },
+  "nieruchomosci": {
+    "count": 1,
+    "tlds": [
+      "pl"
+    ]
+  },
+  "nikolaev": {
+    "count": 1,
+    "tlds": [
+      "ua"
+    ]
+  },
+  "ninhbinh": {
+    "count": 1,
+    "tlds": [
+      "vn"
+    ]
+  },
+  "ninhthuan": {
+    "count": 1,
+    "tlds": [
+      "vn"
+    ]
+  },
+  "nis": {
+    "count": 1,
+    "tlds": [
+      "za"
+    ]
+  },
+  "niteroi": {
+    "count": 1,
+    "tlds": [
+      "br"
+    ]
+  },
+  "nl": {
+    "count": 1,
+    "tlds": [
+      "ca"
+    ]
+  },
+  "nombre": {
+    "count": 1,
+    "tlds": [
+      "bo"
+    ]
+  },
+  "not": {
+    "count": 1,
+    "tlds": [
+      "br"
+    ]
+  },
+  "notaires": {
+    "count": 1,
+    "tlds": [
+      "km"
+    ]
+  },
+  "noticias": {
+    "count": 1,
+    "tlds": [
+      "bo"
+    ]
+  },
+  "nowaruda": {
+    "count": 1,
+    "tlds": [
+      "pl"
+    ]
+  },
+  "ns": {
+    "count": 1,
+    "tlds": [
+      "ca"
+    ]
+  },
+  "nsn": {
+    "count": 1,
+    "tlds": [
+      "us"
+    ]
+  },
+  "nu": {
+    "count": 1,
+    "tlds": [
+      "ca"
+    ]
+  },
+  "nx": {
+    "count": 1,
+    "tlds": [
+      "cn"
+    ]
+  },
+  "nysa": {
+    "count": 1,
+    "tlds": [
+      "pl"
+    ]
+  },
+  "od": {
+    "count": 1,
+    "tlds": [
+      "ua"
+    ]
+  },
+  "odesa": {
+    "count": 1,
+    "tlds": [
+      "ua"
+    ]
+  },
+  "odessa": {
+    "count": 1,
+    "tlds": [
+      "ua"
+    ]
+  },
+  "odo": {
+    "count": 1,
+    "tlds": [
+      "br"
+    ]
+  },
+  "odont": {
+    "count": 1,
+    "tlds": [
+      "ec"
+    ]
+  },
+  "of": {
+    "count": 1,
+    "tlds": [
+      "by"
+    ]
+  },
+  "off": {
+    "count": 1,
+    "tlds": [
+      "ai"
+    ]
+  },
+  "og": {
+    "count": 1,
+    "tlds": [
+      "ao"
+    ]
+  },
+  "oia": {
+    "count": 1,
+    "tlds": [
+      "pl"
+    ]
+  },
+  "oirm": {
+    "count": 1,
+    "tlds": [
+      "pl"
+    ]
+  },
+  "oke": {
+    "count": 1,
+    "tlds": [
+      "pl"
+    ]
+  },
+  "olawa": {
+    "count": 1,
+    "tlds": [
+      "pl"
+    ]
+  },
+  "olecko": {
+    "count": 1,
+    "tlds": [
+      "pl"
+    ]
+  },
+  "olkusz": {
+    "count": 1,
+    "tlds": [
+      "pl"
+    ]
+  },
+  "olsztyn": {
+    "count": 1,
+    "tlds": [
+      "pl"
+    ]
+  },
+  "on": {
+    "count": 1,
+    "tlds": [
+      "ca"
+    ]
+  },
+  "ong": {
+    "count": 1,
+    "tlds": [
+      "br"
+    ]
+  },
+  "oow": {
+    "count": 1,
+    "tlds": [
+      "pl"
+    ]
+  },
+  "opoczno": {
+    "count": 1,
+    "tlds": [
+      "pl"
+    ]
+  },
+  "opole": {
+    "count": 1,
+    "tlds": [
+      "pl"
+    ]
+  },
+  "osasco": {
+    "count": 1,
+    "tlds": [
+      "br"
+    ]
+  },
+  "oschr": {
+    "count": 1,
+    "tlds": [
+      "pl"
+    ]
+  },
+  "ostroda": {
+    "count": 1,
+    "tlds": [
+      "pl"
+    ]
+  },
+  "ostroleka": {
+    "count": 1,
+    "tlds": [
+      "pl"
+    ]
+  },
+  "ostrowiec": {
+    "count": 1,
+    "tlds": [
+      "pl"
+    ]
+  },
+  "ostrowwlkp": {
+    "count": 1,
+    "tlds": [
+      "pl"
+    ]
+  },
+  "ote": {
+    "count": 1,
+    "tlds": [
+      "bj"
+    ]
+  },
+  "other": {
+    "count": 1,
+    "tlds": [
+      "nf"
+    ]
+  },
+  "oum": {
+    "count": 1,
+    "tlds": [
+      "pl"
+    ]
+  },
+  "oz": {
+    "count": 1,
+    "tlds": [
+      "au"
+    ]
+  },
+  "palmas": {
+    "count": 1,
+    "tlds": [
+      "br"
+    ]
+  },
+  "parachuting": {
+    "count": 1,
+    "tlds": [
+      "aero"
+    ]
+  },
+  "paragliding": {
+    "count": 1,
+    "tlds": [
+      "aero"
+    ]
+  },
+  "parliament": {
+    "count": 1,
+    "tlds": [
+      "nz"
+    ]
+  },
+  "paroch": {
+    "count": 1,
+    "tlds": [
+      "us"
+    ]
+  },
+  "parti": {
+    "count": 1,
+    "tlds": [
+      "se"
+    ]
+  },
+  "passenger-association": {
+    "count": 1,
+    "tlds": [
+      "aero"
+    ]
+  },
+  "patria": {
+    "count": 1,
+    "tlds": [
+      "bo"
+    ]
+  },
+  "pc": {
+    "count": 1,
+    "tlds": [
+      "pl"
+    ]
+  },
+  "pg": {
+    "count": 1,
+    "tlds": [
+      "in"
+    ]
+  },
+  "pharmaciens": {
+    "count": 1,
+    "tlds": [
+      "km"
+    ]
+  },
+  "phd": {
+    "count": 1,
+    "tlds": [
+      "jo"
+    ]
+  },
+  "phutho": {
+    "count": 1,
+    "tlds": [
+      "vn"
+    ]
+  },
+  "phuyen": {
+    "count": 1,
+    "tlds": [
+      "vn"
+    ]
+  },
+  "pi": {
+    "count": 1,
+    "tlds": [
+      "br"
+    ]
+  },
+  "pila": {
+    "count": 1,
+    "tlds": [
+      "pl"
+    ]
+  },
+  "pilot": {
+    "count": 1,
+    "tlds": [
+      "aero"
+    ]
+  },
+  "pinb": {
+    "count": 1,
+    "tlds": [
+      "pl"
+    ]
+  },
+  "pisz": {
+    "count": 1,
+    "tlds": [
+      "pl"
+    ]
+  },
+  "piw": {
+    "count": 1,
+    "tlds": [
+      "pl"
+    ]
+  },
+  "pl": {
+    "count": 1,
+    "tlds": [
+      "ua"
+    ]
+  },
+  "plo": {
+    "count": 1,
+    "tlds": [
+      "ps"
+    ]
+  },
+  "plurinacional": {
+    "count": 1,
+    "tlds": [
+      "bo"
+    ]
+  },
+  "po": {
+    "count": 1,
+    "tlds": [
+      "pl"
+    ]
+  },
+  "poa": {
+    "count": 1,
+    "tlds": [
+      "br"
+    ]
+  },
+  "podhale": {
+    "count": 1,
+    "tlds": [
+      "pl"
+    ]
+  },
+  "podlasie": {
+    "count": 1,
+    "tlds": [
+      "pl"
+    ]
+  },
+  "police": {
+    "count": 1,
+    "tlds": [
+      "uk"
+    ]
+  },
+  "politica": {
+    "count": 1,
+    "tlds": [
+      "bo"
+    ]
+  },
+  "polkowice": {
+    "count": 1,
+    "tlds": [
+      "pl"
+    ]
+  },
+  "poltava": {
+    "count": 1,
+    "tlds": [
+      "ua"
+    ]
+  },
+  "pomorskie": {
+    "count": 1,
+    "tlds": [
+      "pl"
+    ]
+  },
+  "pomorze": {
+    "count": 1,
+    "tlds": [
+      "pl"
+    ]
+  },
+  "ponpes": {
+    "count": 1,
+    "tlds": [
+      "id"
+    ]
+  },
+  "post": {
+    "count": 1,
+    "tlds": [
+      "in"
+    ]
+  },
+  "powiat": {
+    "count": 1,
+    "tlds": [
+      "pl"
+    ]
+  },
+  "ppg": {
+    "count": 1,
+    "tlds": [
+      "br"
+    ]
+  },
+  "pri": {
+    "count": 1,
+    "tlds": [
+      "ee"
+    ]
+  },
+  "principe": {
+    "count": 1,
+    "tlds": [
+      "st"
+    ]
+  },
+  "prochowice": {
+    "count": 1,
+    "tlds": [
+      "pl"
+    ]
+  },
+  "production": {
+    "count": 1,
+    "tlds": [
+      "aero"
+    ]
+  },
+  "profesional": {
+    "count": 1,
+    "tlds": [
+      "bo"
+    ]
+  },
+  "pruszkow": {
+    "count": 1,
+    "tlds": [
+      "pl"
+    ]
+  },
+  "przeworsk": {
+    "count": 1,
+    "tlds": [
+      "pl"
+    ]
+  },
+  "psc": {
+    "count": 1,
+    "tlds": [
+      "br"
+    ]
+  },
+  "psi": {
+    "count": 1,
+    "tlds": [
+      "br"
+    ]
+  },
+  "psic": {
+    "count": 1,
+    "tlds": [
+      "ec"
+    ]
+  },
+  "psiq": {
+    "count": 1,
+    "tlds": [
+      "ec"
+    ]
+  },
+  "psp": {
+    "count": 1,
+    "tlds": [
+      "pl"
+    ]
+  },
+  "psse": {
+    "count": 1,
+    "tlds": [
+      "pl"
+    ]
+  },
+  "pueblo": {
+    "count": 1,
+    "tlds": [
+      "bo"
+    ]
+  },
+  "pulawy": {
+    "count": 1,
+    "tlds": [
+      "pl"
+    ]
+  },
+  "pup": {
+    "count": 1,
+    "tlds": [
+      "pl"
+    ]
+  },
+  "pvh": {
+    "count": 1,
+    "tlds": [
+      "br"
+    ]
+  },
+  "q": {
+    "count": 1,
+    "tlds": [
+      "bg"
+    ]
+  },
+  "qc": {
+    "count": 1,
+    "tlds": [
+      "ca"
+    ]
+  },
+  "qh": {
+    "count": 1,
+    "tlds": [
+      "cn"
+    ]
+  },
+  "qsl": {
+    "count": 1,
+    "tlds": [
+      "br"
+    ]
+  },
+  "quangbinh": {
+    "count": 1,
+    "tlds": [
+      "vn"
+    ]
+  },
+  "quangnam": {
+    "count": 1,
+    "tlds": [
+      "vn"
+    ]
+  },
+  "quangngai": {
+    "count": 1,
+    "tlds": [
+      "vn"
+    ]
+  },
+  "quangninh": {
+    "count": 1,
+    "tlds": [
+      "vn"
+    ]
+  },
+  "quangtri": {
+    "count": 1,
+    "tlds": [
+      "vn"
+    ]
+  },
+  "radio": {
+    "count": 1,
+    "tlds": [
+      "br"
+    ]
+  },
+  "radom": {
+    "count": 1,
+    "tlds": [
+      "pl"
+    ]
+  },
+  "rar": {
+    "count": 1,
+    "tlds": [
+      "ve"
+    ]
+  },
+  "rawa-maz": {
+    "count": 1,
+    "tlds": [
+      "pl"
+    ]
+  },
+  "re": {
+    "count": 1,
+    "tlds": [
+      "kr"
+    ]
+  },
+  "realestate": {
+    "count": 1,
+    "tlds": [
+      "pl"
+    ]
+  },
+  "recht": {
+    "count": 1,
+    "tlds": [
+      "pro"
+    ]
+  },
+  "recife": {
+    "count": 1,
+    "tlds": [
+      "br"
+    ]
+  },
+  "recreation": {
+    "count": 1,
+    "tlds": [
+      "aero"
+    ]
+  },
+  "red": {
+    "count": 1,
+    "tlds": [
+      "sv"
+    ]
+  },
+  "reklam": {
+    "count": 1,
+    "tlds": [
+      "hu"
+    ]
+  },
+  "repbody": {
+    "count": 1,
+    "tlds": [
+      "aero"
+    ]
+  },
+  "research": {
+    "count": 1,
+    "tlds": [
+      "aero"
+    ]
+  },
+  "restaurant": {
+    "count": 1,
+    "tlds": [
+      "bj"
+    ]
+  },
+  "resto": {
+    "count": 1,
+    "tlds": [
+      "bj"
+    ]
+  },
+  "revista": {
+    "count": 1,
+    "tlds": [
+      "bo"
+    ]
+  },
+  "ribeirao": {
+    "count": 1,
+    "tlds": [
+      "br"
+    ]
+  },
+  "riik": {
+    "count": 1,
+    "tlds": [
+      "ee"
+    ]
+  },
+  "riobranco": {
+    "count": 1,
+    "tlds": [
+      "br"
+    ]
+  },
+  "riopreto": {
+    "count": 1,
+    "tlds": [
+      "br"
+    ]
+  },
+  "rivne": {
+    "count": 1,
+    "tlds": [
+      "ua"
+    ]
+  },
+  "rj": {
+    "count": 1,
+    "tlds": [
+      "br"
+    ]
+  },
+  "rn": {
+    "count": 1,
+    "tlds": [
+      "br"
+    ]
+  },
+  "ro": {
+    "count": 1,
+    "tlds": [
+      "br"
+    ]
+  },
+  "rotorcraft": {
+    "count": 1,
+    "tlds": [
+      "aero"
+    ]
+  },
+  "rovno": {
+    "count": 1,
+    "tlds": [
+      "ua"
+    ]
+  },
+  "rr": {
+    "count": 1,
+    "tlds": [
+      "br"
+    ]
+  },
+  "rrpp": {
+    "count": 1,
+    "tlds": [
+      "ec"
+    ]
+  },
+  "rs": {
+    "count": 1,
+    "tlds": [
+      "br"
+    ]
+  },
+  "rv": {
+    "count": 1,
+    "tlds": [
+      "ua"
+    ]
+  },
+  "rybnik": {
+    "count": 1,
+    "tlds": [
+      "pl"
+    ]
+  },
+  "rzeszow": {
+    "count": 1,
+    "tlds": [
+      "pl"
+    ]
+  },
+  "rzgw": {
+    "count": 1,
+    "tlds": [
+      "pl"
+    ]
+  },
+  "safety": {
+    "count": 1,
+    "tlds": [
+      "aero"
+    ]
+  },
+  "sal": {
+    "count": 1,
+    "tlds": [
+      "ec"
+    ]
+  },
+  "salud": {
+    "count": 1,
+    "tlds": [
+      "bo"
+    ]
+  },
+  "salvador": {
+    "count": 1,
+    "tlds": [
+      "br"
+    ]
+  },
+  "sampa": {
+    "count": 1,
+    "tlds": [
+      "br"
+    ]
+  },
+  "sanok": {
+    "count": 1,
+    "tlds": [
+      "pl"
+    ]
+  },
+  "santamaria": {
+    "count": 1,
+    "tlds": [
+      "br"
+    ]
+  },
+  "santoandre": {
+    "count": 1,
+    "tlds": [
+      "br"
+    ]
+  },
+  "saobernardo": {
+    "count": 1,
+    "tlds": [
+      "br"
+    ]
+  },
+  "saogonca": {
+    "count": 1,
+    "tlds": [
+      "br"
+    ]
+  },
+  "saotome": {
+    "count": 1,
+    "tlds": [
+      "st"
+    ]
+  },
+  "sb": {
+    "count": 1,
+    "tlds": [
+      "ua"
+    ]
+  },
+  "sci": {
+    "count": 1,
+    "tlds": [
+      "eg"
+    ]
+  },
+  "scientist": {
+    "count": 1,
+    "tlds": [
+      "aero"
+    ]
+  },
+  "sdn": {
+    "count": 1,
+    "tlds": [
+      "pl"
+    ]
+  },
+  "se": {
+    "count": 1,
+    "tlds": [
+      "br"
+    ]
+  },
+  "sebastopol": {
+    "count": 1,
+    "tlds": [
+      "ua"
+    ]
+  },
+  "sec": {
+    "count": 1,
+    "tlds": [
+      "ps"
+    ]
+  },
+  "sejny": {
+    "count": 1,
+    "tlds": [
+      "pl"
+    ]
+  },
+  "senasa": {
+    "count": 1,
+    "tlds": [
+      "ar"
+    ]
+  },
+  "seoul": {
+    "count": 1,
+    "tlds": [
+      "kr"
+    ]
+  },
+  "services": {
+    "count": 1,
+    "tlds": [
+      "aero"
+    ]
+  },
+  "sevastopol": {
+    "count": 1,
+    "tlds": [
+      "ua"
+    ]
+  },
+  "sh": {
+    "count": 1,
+    "tlds": [
+      "cn"
+    ]
+  },
+  "show": {
+    "count": 1,
+    "tlds": [
+      "aero"
+    ]
+  },
+  "sjc": {
+    "count": 1,
+    "tlds": [
+      "br"
+    ]
+  },
+  "sk": {
+    "count": 1,
+    "tlds": [
+      "ca"
+    ]
+  },
+  "sklep": {
+    "count": 1,
+    "tlds": [
+      "pl"
+    ]
+  },
+  "sko": {
+    "count": 1,
+    "tlds": [
+      "pl"
+    ]
+  },
+  "skoczow": {
+    "count": 1,
+    "tlds": [
+      "pl"
+    ]
+  },
+  "skydiving": {
+    "count": 1,
+    "tlds": [
+      "aero"
+    ]
+  },
+  "slask": {
+    "count": 1,
+    "tlds": [
+      "pl"
+    ]
+  },
+  "slg": {
+    "count": 1,
+    "tlds": [
+      "br"
+    ]
+  },
+  "slupsk": {
+    "count": 1,
+    "tlds": [
+      "pl"
+    ]
+  },
+  "slz": {
+    "count": 1,
+    "tlds": [
+      "br"
+    ]
+  },
+  "sm": {
+    "count": 1,
+    "tlds": [
+      "ua"
+    ]
+  },
+  "sn": {
+    "count": 1,
+    "tlds": [
+      "cn"
+    ]
+  },
+  "so": {
+    "count": 1,
+    "tlds": [
+      "pl"
+    ]
+  },
+  "social": {
+    "count": 1,
+    "tlds": [
+      "br"
+    ]
+  },
+  "soctrang": {
+    "count": 1,
+    "tlds": [
+      "vn"
+    ]
+  },
+  "software": {
+    "count": 1,
+    "tlds": [
+      "aero"
+    ]
+  },
+  "sonla": {
+    "count": 1,
+    "tlds": [
+      "vn"
+    ]
+  },
+  "sorocaba": {
+    "count": 1,
+    "tlds": [
+      "br"
+    ]
+  },
+  "sos": {
+    "count": 1,
+    "tlds": [
+      "pl"
+    ]
+  },
+  "sosnowiec": {
+    "count": 1,
+    "tlds": [
+      "pl"
+    ]
+  },
+  "sp": {
+    "count": 1,
+    "tlds": [
+      "br"
+    ]
+  },
+  "sr": {
+    "count": 1,
+    "tlds": [
+      "pl"
+    ]
+  },
+  "srv": {
+    "count": 1,
+    "tlds": [
+      "br"
+    ]
+  },
+  "stalowa-wola": {
+    "count": 1,
+    "tlds": [
+      "pl"
+    ]
+  },
+  "starachowice": {
+    "count": 1,
+    "tlds": [
+      "pl"
+    ]
+  },
+  "stargard": {
+    "count": 1,
+    "tlds": [
+      "pl"
+    ]
+  },
+  "starostwo": {
+    "count": 1,
+    "tlds": [
+      "pl"
+    ]
+  },
+  "sth": {
+    "count": 1,
+    "tlds": [
+      "at"
+    ]
+  },
+  "student": {
+    "count": 1,
+    "tlds": [
+      "aero"
+    ]
+  },
+  "suli": {
+    "count": 1,
+    "tlds": [
+      "hu"
+    ]
+  },
+  "sumy": {
+    "count": 1,
+    "tlds": [
+      "ua"
+    ]
+  },
+  "suwalki": {
+    "count": 1,
+    "tlds": [
+      "pl"
+    ]
+  },
+  "swidnica": {
+    "count": 1,
+    "tlds": [
+      "pl"
+    ]
+  },
+  "swiebodzin": {
+    "count": 1,
+    "tlds": [
+      "pl"
+    ]
+  },
+  "swinoujscie": {
+    "count": 1,
+    "tlds": [
+      "pl"
+    ]
+  },
+  "sx": {
+    "count": 1,
+    "tlds": [
+      "cn"
+    ]
+  },
+  "szczecin": {
+    "count": 1,
+    "tlds": [
+      "pl"
+    ]
+  },
+  "szczytno": {
+    "count": 1,
+    "tlds": [
+      "pl"
+    ]
+  },
+  "szex": {
+    "count": 1,
+    "tlds": [
+      "hu"
+    ]
+  },
+  "szkola": {
+    "count": 1,
+    "tlds": [
+      "pl"
+    ]
+  },
+  "targi": {
+    "count": 1,
+    "tlds": [
+      "pl"
+    ]
+  },
+  "tarnobrzeg": {
+    "count": 1,
+    "tlds": [
+      "pl"
+    ]
+  },
+  "tayninh": {
+    "count": 1,
+    "tlds": [
+      "vn"
+    ]
+  },
+  "tc": {
+    "count": 1,
+    "tlds": [
+      "br"
+    ]
+  },
+  "te": {
+    "count": 1,
+    "tlds": [
+      "ua"
+    ]
+  },
+  "tech": {
+    "count": 1,
+    "tlds": [
+      "ec"
+    ]
+  },
+  "tecnologia": {
+    "count": 1,
+    "tlds": [
+      "bo"
+    ]
+  },
+  "tel": {
+    "count": 1,
+    "tlds": [
+      "tr"
+    ]
+  },
+  "teo": {
+    "count": 1,
+    "tlds": [
+      "br"
+    ]
+  },
+  "ternopil": {
+    "count": 1,
+    "tlds": [
+      "ua"
+    ]
+  },
+  "test": {
+    "count": 1,
+    "tlds": [
+      "tj"
+    ]
+  },
+  "tgory": {
+    "count": 1,
+    "tlds": [
+      "pl"
+    ]
+  },
+  "thaibinh": {
+    "count": 1,
+    "tlds": [
+      "vn"
+    ]
+  },
+  "thainguyen": {
+    "count": 1,
+    "tlds": [
+      "vn"
+    ]
+  },
+  "thanhhoa": {
+    "count": 1,
+    "tlds": [
+      "vn"
+    ]
+  },
+  "thanhphohochiminh": {
+    "count": 1,
+    "tlds": [
+      "vn"
+    ]
+  },
+  "the": {
+    "count": 1,
+    "tlds": [
+      "br"
+    ]
+  },
+  "thuathienhue": {
+    "count": 1,
+    "tlds": [
+      "vn"
+    ]
+  },
+  "tiengiang": {
+    "count": 1,
+    "tlds": [
+      "vn"
+    ]
+  },
+  "tj": {
+    "count": 1,
+    "tlds": [
+      "cn"
+    ]
+  },
+  "tksat": {
+    "count": 1,
+    "tlds": [
+      "bo"
+    ]
+  },
+  "tmp": {
+    "count": 1,
+    "tlds": [
+      "br"
+    ]
+  },
+  "to": {
+    "count": 1,
+    "tlds": [
+      "br"
+    ]
+  },
+  "tozsde": {
+    "count": 1,
+    "tlds": [
+      "hu"
+    ]
+  },
+  "tra": {
+    "count": 1,
+    "tlds": [
+      "kp"
+    ]
+  },
+  "trader": {
+    "count": 1,
+    "tlds": [
+      "aero"
+    ]
+  },
+  "trading": {
+    "count": 1,
+    "tlds": [
+      "aero"
+    ]
+  },
+  "trainer": {
+    "count": 1,
+    "tlds": [
+      "aero"
+    ]
+  },
+  "transporte": {
+    "count": 1,
+    "tlds": [
+      "bo"
+    ]
+  },
+  "travinh": {
+    "count": 1,
+    "tlds": [
+      "vn"
+    ]
+  },
+  "trd": {
+    "count": 1,
+    "tlds": [
+      "br"
+    ]
+  },
+  "tsk": {
+    "count": 1,
+    "tlds": [
+      "tr"
+    ]
+  },
+  "tt": {
+    "count": 1,
+    "tlds": [
+      "im"
+    ]
+  },
+  "tul": {
+    "count": 1,
+    "tlds": [
+      "ec"
+    ]
+  },
+  "turek": {
+    "count": 1,
+    "tlds": [
+      "pl"
+    ]
+  },
+  "turystyka": {
+    "count": 1,
+    "tlds": [
+      "pl"
+    ]
+  },
+  "tuyenquang": {
+    "count": 1,
+    "tlds": [
+      "vn"
+    ]
+  },
+  "tw": {
+    "count": 1,
+    "tlds": [
+      "cn"
+    ]
+  },
+  "tychy": {
+    "count": 1,
+    "tlds": [
+      "pl"
+    ]
+  },
+  "udi": {
+    "count": 1,
+    "tlds": [
+      "br"
+    ]
+  },
+  "ug": {
+    "count": 1,
+    "tlds": [
+      "pl"
+    ]
+  },
+  "ugim": {
+    "count": 1,
+    "tlds": [
+      "pl"
+    ]
+  },
+  "uio": {
+    "count": 1,
+    "tlds": [
+      "ec"
+    ]
+  },
+  "uk": {
+    "count": 1,
+    "tlds": [
+      "in"
+    ]
+  },
+  "ulsan": {
+    "count": 1,
+    "tlds": [
+      "kr"
+    ]
+  },
+  "um": {
+    "count": 1,
+    "tlds": [
+      "pl"
+    ]
+  },
+  "umig": {
+    "count": 1,
+    "tlds": [
+      "pl"
+    ]
+  },
+  "union": {
+    "count": 1,
+    "tlds": [
+      "aero"
+    ]
+  },
+  "up": {
+    "count": 1,
+    "tlds": [
+      "in"
+    ]
+  },
+  "upow": {
+    "count": 1,
+    "tlds": [
+      "pl"
+    ]
+  },
+  "uppo": {
+    "count": 1,
+    "tlds": [
+      "pl"
+    ]
+  },
+  "uri": {
+    "count": 1,
+    "tlds": [
+      "arpa"
+    ]
+  },
+  "urn": {
+    "count": 1,
+    "tlds": [
+      "arpa"
+    ]
+  },
+  "ustka": {
+    "count": 1,
+    "tlds": [
+      "pl"
+    ]
+  },
+  "utazas": {
+    "count": 1,
+    "tlds": [
+      "hu"
+    ]
+  },
+  "uw": {
+    "count": 1,
+    "tlds": [
+      "pl"
+    ]
+  },
+  "uz": {
+    "count": 1,
+    "tlds": [
+      "ua"
+    ]
+  },
+  "uzhgorod": {
+    "count": 1,
+    "tlds": [
+      "ua"
+    ]
+  },
+  "uzhhorod": {
+    "count": 1,
+    "tlds": [
+      "ua"
+    ]
+  },
+  "uzs": {
+    "count": 1,
+    "tlds": [
+      "pl"
+    ]
+  },
+  "v": {
+    "count": 1,
+    "tlds": [
+      "bg"
+    ]
+  },
+  "veterinaire": {
+    "count": 1,
+    "tlds": [
+      "km"
+    ]
+  },
+  "video": {
+    "count": 1,
+    "tlds": [
+      "hu"
+    ]
+  },
+  "vinhlong": {
+    "count": 1,
+    "tlds": [
+      "vn"
+    ]
+  },
+  "vinhphuc": {
+    "count": 1,
+    "tlds": [
+      "vn"
+    ]
+  },
+  "vinnica": {
+    "count": 1,
+    "tlds": [
+      "ua"
+    ]
+  },
+  "vinnytsia": {
+    "count": 1,
+    "tlds": [
+      "ua"
+    ]
+  },
+  "vix": {
+    "count": 1,
+    "tlds": [
+      "br"
+    ]
+  },
+  "vlog": {
+    "count": 1,
+    "tlds": [
+      "br"
+    ]
+  },
+  "vn": {
+    "count": 1,
+    "tlds": [
+      "ua"
+    ]
+  },
+  "volyn": {
+    "count": 1,
+    "tlds": [
+      "ua"
+    ]
+  },
+  "walbrzych": {
+    "count": 1,
+    "tlds": [
+      "pl"
+    ]
+  },
+  "warmia": {
+    "count": 1,
+    "tlds": [
+      "pl"
+    ]
+  },
+  "warszawa": {
+    "count": 1,
+    "tlds": [
+      "pl"
+    ]
+  },
+  "washtenaw": {
+    "count": 1,
+    "tlds": [
+      "us"
+    ]
+  },
+  "waw": {
+    "count": 1,
+    "tlds": [
+      "pl"
+    ]
+  },
+  "wegrow": {
+    "count": 1,
+    "tlds": [
+      "pl"
+    ]
+  },
+  "wielun": {
+    "count": 1,
+    "tlds": [
+      "pl"
+    ]
+  },
+  "wif": {
+    "count": 1,
+    "tlds": [
+      "pl"
+    ]
+  },
+  "wiih": {
+    "count": 1,
+    "tlds": [
+      "pl"
+    ]
+  },
+  "winb": {
+    "count": 1,
+    "tlds": [
+      "pl"
+    ]
+  },
+  "wios": {
+    "count": 1,
+    "tlds": [
+      "pl"
+    ]
+  },
+  "witd": {
+    "count": 1,
+    "tlds": [
+      "pl"
+    ]
+  },
+  "wiw": {
+    "count": 1,
+    "tlds": [
+      "pl"
+    ]
+  },
+  "wkz": {
+    "count": 1,
+    "tlds": [
+      "pl"
+    ]
+  },
+  "wlocl": {
+    "count": 1,
+    "tlds": [
+      "pl"
+    ]
+  },
+  "wloclawek": {
+    "count": 1,
+    "tlds": [
+      "pl"
+    ]
+  },
+  "wodzislaw": {
+    "count": 1,
+    "tlds": [
+      "pl"
+    ]
+  },
+  "wolomin": {
+    "count": 1,
+    "tlds": [
+      "pl"
+    ]
+  },
+  "workinggroup": {
+    "count": 1,
+    "tlds": [
+      "aero"
+    ]
+  },
+  "works": {
+    "count": 1,
+    "tlds": [
+      "aero"
+    ]
+  },
+  "wroclaw": {
+    "count": 1,
+    "tlds": [
+      "pl"
+    ]
+  },
+  "wsa": {
+    "count": 1,
+    "tlds": [
+      "pl"
+    ]
+  },
+  "wskr": {
+    "count": 1,
+    "tlds": [
+      "pl"
+    ]
+  },
+  "wsse": {
+    "count": 1,
+    "tlds": [
+      "pl"
+    ]
+  },
+  "wuoz": {
+    "count": 1,
+    "tlds": [
+      "pl"
+    ]
+  },
+  "wzmiuw": {
+    "count": 1,
+    "tlds": [
+      "pl"
+    ]
+  },
+  "xj": {
+    "count": 1,
+    "tlds": [
+      "cn"
+    ]
+  },
+  "xxx": {
+    "count": 1,
+    "tlds": [
+      "ec"
+    ]
+  },
+  "xyz": {
+    "count": 1,
+    "tlds": [
+      "br"
+    ]
+  },
+  "xz": {
+    "count": 1,
+    "tlds": [
+      "cn"
+    ]
+  },
+  "yalta": {
+    "count": 1,
+    "tlds": [
+      "ua"
+    ]
+  },
+  "yenbai": {
+    "count": 1,
+    "tlds": [
+      "vn"
+    ]
+  },
+  "yk": {
+    "count": 1,
+    "tlds": [
+      "ca"
+    ]
+  },
+  "yn": {
+    "count": 1,
+    "tlds": [
+      "cn"
+    ]
+  },
+  "zachpomor": {
+    "count": 1,
+    "tlds": [
+      "pl"
+    ]
+  },
+  "zagan": {
+    "count": 1,
+    "tlds": [
+      "pl"
+    ]
+  },
+  "zakarpattia": {
+    "count": 1,
+    "tlds": [
+      "ua"
+    ]
+  },
+  "zaporizhzhe": {
+    "count": 1,
+    "tlds": [
+      "ua"
+    ]
+  },
+  "zaporizhzhia": {
+    "count": 1,
+    "tlds": [
+      "ua"
+    ]
+  },
+  "zarow": {
+    "count": 1,
+    "tlds": [
+      "pl"
+    ]
+  },
+  "zgora": {
+    "count": 1,
+    "tlds": [
+      "pl"
+    ]
+  },
+  "zgorzelec": {
+    "count": 1,
+    "tlds": [
+      "pl"
+    ]
+  },
+  "zhitomir": {
+    "count": 1,
+    "tlds": [
+      "ua"
+    ]
+  },
+  "zhytomyr": {
+    "count": 1,
+    "tlds": [
+      "ua"
+    ]
+  },
+  "zj": {
+    "count": 1,
+    "tlds": [
+      "cn"
+    ]
+  },
+  "zlg": {
+    "count": 1,
+    "tlds": [
+      "br"
+    ]
+  },
+  "zpisdn": {
+    "count": 1,
+    "tlds": [
+      "pl"
+    ]
+  },
+  "zt": {
+    "count": 1,
+    "tlds": [
+      "ua"
+    ]
+  },
+  "ак": {
+    "count": 1,
+    "tlds": [
+      "срб"
+    ]
+  },
+  "обр": {
+    "count": 1,
+    "tlds": [
+      "срб"
+    ]
+  },
+  "од": {
+    "count": 1,
+    "tlds": [
+      "срб"
+    ]
+  },
+  "орг": {
+    "count": 1,
+    "tlds": [
+      "срб"
+    ]
+  },
+  "пр": {
+    "count": 1,
+    "tlds": [
+      "срб"
+    ]
+  },
+  "упр": {
+    "count": 1,
+    "tlds": [
+      "срб"
+    ]
+  },
+  "אקדמיה": {
+    "count": 1,
+    "tlds": [
+      "ישראל"
+    ]
+  },
+  "ישוב": {
+    "count": 1,
+    "tlds": [
+      "ישראל"
+    ]
+  },
+  "ממשל": {
+    "count": 1,
+    "tlds": [
+      "ישראל"
+    ]
+  },
+  "צהל": {
+    "count": 1,
+    "tlds": [
+      "ישראל"
+    ]
+  },
+  "ايران": {
+    "count": 1,
+    "tlds": [
+      "ir"
+    ]
+  },
+  "ایران": {
+    "count": 1,
+    "tlds": [
+      "ir"
+    ]
+  },
+  "ทหาร": {
+    "count": 1,
+    "tlds": [
+      "ไทย"
+    ]
+  },
+  "ธุรกิจ": {
+    "count": 1,
+    "tlds": [
+      "ไทย"
+    ]
+  },
+  "รัฐบาล": {
+    "count": 1,
+    "tlds": [
+      "ไทย"
+    ]
+  },
+  "ศึกษา": {
+    "count": 1,
+    "tlds": [
+      "ไทย"
+    ]
+  },
+  "องค์กร": {
+    "count": 1,
+    "tlds": [
+      "ไทย"
+    ]
+  },
+  "เน็ต": {
+    "count": 1,
+    "tlds": [
+      "ไทย"
+    ]
+  },
+  "个人": {
+    "count": 1,
+    "tlds": [
+      "hk"
+    ]
+  },
+  "敎育": {
+    "count": 1,
+    "tlds": [
+      "hk"
+    ]
+  },
+  "箇人": {
+    "count": 1,
+    "tlds": [
+      "hk"
+    ]
+  },
+  "組织": {
+    "count": 1,
+    "tlds": [
+      "hk"
+    ]
+  },
+  "網络": {
+    "count": 1,
+    "tlds": [
+      "hk"
+    ]
+  },
+  "组織": {
+    "count": 1,
+    "tlds": [
+      "hk"
+    ]
+  },
+  "组织": {
+    "count": 1,
+    "tlds": [
+      "hk"
+    ]
+  },
+  "网絡": {
+    "count": 1,
+    "tlds": [
+      "hk"
+    ]
+  }
+}
